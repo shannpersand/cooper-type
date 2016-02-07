@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="500"/>
+  <unicode hex="0042"/>
+  <note>
+    Bee
+  </note>
+  <outline>
+    <contour>
+      <point x="73" y="741" type="line"/>
+      <point x="68" y="401" type="line"/>
+      <point x="117" y="395" type="line"/>
+      <point x="118" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="730" type="line"/>
+      <point x="230" y="646" type="line"/>
+      <point x="328" y="631" type="line"/>
+      <point x="329" y="517" type="line"/>
+      <point x="94" y="521" type="line"/>
+      <point x="112" y="395" type="line"/>
+      <point x="374" y="393" type="line"/>
+      <point x="368" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="894" type="line"/>
+      <point x="188" y="-17" type="line"/>
+      <point x="237" y="-23" type="line"/>
+      <point x="239" y="899" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

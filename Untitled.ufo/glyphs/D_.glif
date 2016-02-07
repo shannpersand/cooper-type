@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="500"/>
+  <unicode hex="0044"/>
+  <note>
+    Donkey
+  </note>
+  <outline>
+    <contour>
+      <point x="131" y="863" type="line"/>
+      <point x="125" y="-17" type="line"/>
+      <point x="174" y="-23" type="line"/>
+      <point x="176" y="868" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="6" type="line"/>
+      <point x="372" y="296" type="line"/>
+      <point x="255" y="308" type="line"/>
+      <point x="323" y="424" type="line"/>
+      <point x="323" y="552" type="line"/>
+      <point x="165" y="553" type="line"/>
+      <point x="159" y="447" type="line"/>
+      <point x="263" y="453" type="line"/>
+      <point x="269" y="417" type="line"/>
+      <point x="211" y="323" type="line"/>
+      <point x="204" y="170" type="line"/>
+      <point x="337" y="156" type="line"/>
+      <point x="347" y="-16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="500"/>
+  <unicode hex="0043"/>
+  <note>
+    Cactus
+  </note>
+  <outline>
+    <contour>
+      <point x="73" y="470" type="line"/>
+      <point x="68" y="-16" type="line"/>
+      <point x="117" y="-22" type="line"/>
+      <point x="118" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="315" type="line"/>
+      <point x="329" y="100" type="line"/>
+      <point x="94" y="104" type="line"/>
+      <point x="112" y="-22" type="line"/>
+      <point x="374" y="-24" type="line"/>
+      <point x="368" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="888" type="line"/>
+      <point x="188" y="-17" type="line"/>
+      <point x="237" y="-23" type="line"/>
+      <point x="239" y="893" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
