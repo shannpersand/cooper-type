@@ -1,37 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="500"/>
+  <advance width="439"/>
   <unicode hex="0044"/>
   <note>
     Donkey
   </note>
   <outline>
     <contour>
-      <point x="131" y="863" type="line"/>
-      <point x="125" y="-17" type="line"/>
-      <point x="174" y="-23" type="line"/>
-      <point x="176" y="868" type="line"/>
+      <point x="367" y="6" type="line"/>
+      <point x="336" y="296" type="line"/>
+      <point x="219" y="308" type="line"/>
+      <point x="287" y="424" type="line"/>
+      <point x="287" y="552" type="line"/>
+      <point x="129" y="553" type="line"/>
+      <point x="123" y="447" type="line"/>
+      <point x="227" y="453" type="line"/>
+      <point x="233" y="417" type="line"/>
+      <point x="175" y="323" type="line"/>
+      <point x="168" y="170" type="line"/>
+      <point x="301" y="156" type="line"/>
+      <point x="311" y="-16" type="line"/>
     </contour>
     <contour>
-      <point x="403" y="6" type="line"/>
-      <point x="372" y="296" type="line"/>
-      <point x="255" y="308" type="line"/>
-      <point x="323" y="424" type="line"/>
-      <point x="323" y="552" type="line"/>
-      <point x="165" y="553" type="line"/>
-      <point x="159" y="447" type="line"/>
-      <point x="263" y="453" type="line"/>
-      <point x="269" y="417" type="line"/>
-      <point x="211" y="323" type="line"/>
-      <point x="204" y="170" type="line"/>
-      <point x="337" y="156" type="line"/>
-      <point x="347" y="-16" type="line"/>
+      <point x="84" y="883" type="curve" smooth="yes"/>
+      <point x="84" y="862"/>
+      <point x="93" y="836"/>
+      <point x="93" y="780" type="curve" smooth="yes"/>
+      <point x="93" y="770"/>
+      <point x="95" y="661"/>
+      <point x="95" y="515" type="curve"/>
+      <point x="95" y="341"/>
+      <point x="94" y="127"/>
+      <point x="93" y="15" type="curve" smooth="yes"/>
+      <point x="93" y="10"/>
+      <point x="96" y="0"/>
+      <point x="103" y="0" type="curve"/>
+      <point x="128" y="0" type="line"/>
+      <point x="135" y="0"/>
+      <point x="140" y="9"/>
+      <point x="140" y="16" type="curve"/>
+      <point x="140" y="23"/>
+      <point x="135" y="300"/>
+      <point x="135" y="558" type="curve" smooth="yes"/>
+      <point x="135" y="694"/>
+      <point x="143" y="813"/>
+      <point x="143" y="899" type="curve" smooth="yes"/>
+      <point x="143" y="909"/>
+      <point x="142" y="922"/>
+      <point x="135" y="922" type="curve"/>
+      <point x="111" y="922"/>
+      <point x="84" y="897"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>D</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>439</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
