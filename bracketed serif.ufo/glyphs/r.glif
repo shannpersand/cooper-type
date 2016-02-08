@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="497"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="29" y="495" type="line"/>
+      <point x="29" y="504"/>
+      <point x="31" y="507"/>
+      <point x="42" y="507" type="curve"/>
+      <point x="137" y="499" type="line"/>
+      <point x="252" y="512" type="line"/>
+      <point x="259" y="500" type="line"/>
+      <point x="250" y="401" type="line"/>
+      <point x="232" y="428" type="line"/>
+      <point x="283" y="451"/>
+      <point x="353" y="519"/>
+      <point x="437" y="519" type="curve"/>
+      <point x="466" y="519"/>
+      <point x="506" y="512"/>
+      <point x="506" y="488" type="curve"/>
+      <point x="506" y="465"/>
+      <point x="435" y="376"/>
+      <point x="417" y="376" type="curve"/>
+      <point x="402" y="376"/>
+      <point x="383" y="433"/>
+      <point x="337" y="433" type="curve"/>
+      <point x="296" y="433"/>
+      <point x="258" y="368"/>
+      <point x="258" y="324" type="curve"/>
+      <point x="258" y="292"/>
+      <point x="259" y="179"/>
+      <point x="258" y="122" type="curve"/>
+      <point x="258" y="91"/>
+      <point x="280" y="50"/>
+      <point x="299" y="50" type="curve"/>
+      <point x="314" y="50"/>
+      <point x="341" y="50"/>
+      <point x="354" y="50" type="curve"/>
+      <point x="363" y="50"/>
+      <point x="367" y="43"/>
+      <point x="367" y="38" type="curve"/>
+      <point x="367" y="27"/>
+      <point x="368" y="14"/>
+      <point x="367" y="6" type="curve"/>
+      <point x="367" y="0"/>
+      <point x="355" y="-1"/>
+      <point x="344" y="-1" type="curve" smooth="yes"/>
+      <point x="330" y="0"/>
+      <point x="223" y="4"/>
+      <point x="181" y="4" type="curve" smooth="yes"/>
+      <point x="143" y="4"/>
+      <point x="51" y="-1"/>
+      <point x="14" y="-1" type="curve" smooth="yes"/>
+      <point x="9" y="-1"/>
+      <point x="5" y="3"/>
+      <point x="5" y="8" type="curve"/>
+      <point x="5" y="13"/>
+      <point x="5" y="32"/>
+      <point x="5" y="39" type="curve" smooth="yes"/>
+      <point x="5" y="44"/>
+      <point x="8" y="50"/>
+      <point x="15" y="50" type="curve"/>
+      <point x="26" y="50"/>
+      <point x="36" y="50"/>
+      <point x="47" y="50" type="curve"/>
+      <point x="75" y="50"/>
+      <point x="101" y="82"/>
+      <point x="104" y="99" type="curve" smooth="yes"/>
+      <point x="108" y="124"/>
+      <point x="114" y="336"/>
+      <point x="111" y="387" type="curve" smooth="yes"/>
+      <point x="109" y="419"/>
+      <point x="101" y="450"/>
+      <point x="69" y="450" type="curve"/>
+      <point x="59" y="450"/>
+      <point x="47" y="450"/>
+      <point x="37" y="450" type="curve"/>
+      <point x="31" y="450"/>
+      <point x="29" y="455"/>
+      <point x="29" y="464" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>400</integer>
+          <key>y</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>16</integer>
+          <key>y</key>
+          <integer>450</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.image</key>
+      <dict>
+        <key>brightness</key>
+        <real>-0.14803479611873627</real>
+        <key>contrast</key>
+        <real>1.8932526111602783</real>
+        <key>path</key>
+        <string>/var/folders/7_/wpd7j00j5s782cjpc05blnx43kfc15/T/tmphPW2Ww</string>
+        <key>saturation</key>
+        <real>0.0</real>
+        <key>sharpness</key>
+        <real>0.4000000059604645</real>
+        <key>transform</key>
+        <array>
+          <real>2.0799256021050634</real>
+          <real>0.009652865875951697</real>
+          <real>-0.009652865875951697</real>
+          <real>2.0799256021050634</real>
+          <real>-26.3853591160221</real>
+          <real>-64.45441988950276</real>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>497</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
