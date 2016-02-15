@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="1">
+  <advance width="720"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="671" y="703" type="line"/>
+      <point x="671" y="714"/>
+      <point x="606" y="760"/>
+      <point x="443" y="760" type="curve"/>
+      <point x="232" y="760"/>
+      <point x="38" y="649"/>
+      <point x="38" y="378" type="curve"/>
+      <point x="38" y="84"/>
+      <point x="286" y="-12"/>
+      <point x="469" y="-12" type="curve"/>
+      <point x="606" y="-12"/>
+      <point x="671" y="5"/>
+      <point x="671" y="11" type="curve"/>
+      <point x="671" y="42" type="line"/>
+      <point x="671" y="25"/>
+      <point x="575" y="8"/>
+      <point x="471" y="8" type="curve"/>
+      <point x="312" y="8"/>
+      <point x="60" y="97"/>
+      <point x="60" y="378" type="curve"/>
+      <point x="60" y="642"/>
+      <point x="259" y="742"/>
+      <point x="443" y="742" type="curve"/>
+      <point x="577" y="742"/>
+      <point x="671" y="694"/>
+      <point x="671" y="678" type="curve"/>
+    </contour>
+    <contour>
+      <point x="650" y="334" type="line"/>
+      <point x="650" y="13" type="line"/>
+      <point x="671" y="13" type="line"/>
+      <point x="671" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>G</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>720</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
