@@ -8,6 +8,8 @@
 	<integer>750</integer>
 	<key>descender</key>
 	<integer>-250</integer>
+	<key>familyName</key>
+	<string>Trajan Skeleton</string>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -26,6 +28,8 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleName</key>
+	<string>Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
