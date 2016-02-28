@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="H" format="1">
-  <advance width="657"/>
-  <unicode hex="0048"/>
+<glyph name="l" format="1">
+  <advance width="368"/>
+  <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="84" y="750" type="line"/>
-      <point x="84" y="0" type="line"/>
-      <point x="106" y="0" type="line"/>
-      <point x="106" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="101" y="423" type="line"/>
-      <point x="101" y="400" type="line"/>
-      <point x="558" y="400" type="line"/>
-      <point x="558" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="551" y="750" type="line"/>
-      <point x="551" y="0" type="line"/>
-      <point x="573" y="0" type="line"/>
-      <point x="573" y="750" type="line"/>
+      <point x="224" y="723" type="line"/>
+      <point x="223" y="742"/>
+      <point x="212" y="750"/>
+      <point x="194" y="750" type="curve"/>
+      <point x="46" y="750" type="line"/>
+      <point x="46" y="691" type="line"/>
+      <point x="118" y="663" type="line"/>
+      <point x="114" y="47" type="line"/>
+      <point x="114" y="16"/>
+      <point x="127" y="0"/>
+      <point x="149" y="0" type="curve"/>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="64" type="line"/>
+      <point x="219" y="90" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,12 +39,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>H</string>
+          <string>l</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>657</integer>
+          <integer>368</integer>
         </dict>
         <key>x</key>
         <dict>
@@ -63,12 +61,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>H</string>
+          <string>l</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>657</integer>
+          <integer>368</integer>
         </dict>
       </dict>
     </dict>
