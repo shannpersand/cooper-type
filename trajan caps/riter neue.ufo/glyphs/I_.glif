@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="L" format="1">
-  <advance width="456"/>
-  <unicode hex="004C"/>
+<glyph name="I" format="1">
+  <advance width="220"/>
+  <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="52" y="750" type="line"/>
-      <point x="52" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="74" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="55" y="21" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="400" y="0" type="line"/>
-      <point x="400" y="21" type="line"/>
+      <point x="101" y="750" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,12 +29,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>L</string>
+          <string>I</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>456</integer>
+          <integer>220</integer>
         </dict>
         <key>x</key>
         <dict>
@@ -57,12 +51,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>L</string>
+          <string>I</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>456</integer>
+          <integer>220</integer>
         </dict>
       </dict>
     </dict>
