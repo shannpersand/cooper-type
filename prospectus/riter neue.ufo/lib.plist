@@ -244,6 +244,7 @@
 				<string>threesuperior</string>
 				<string>twosuperior</string>
 				<string>components</string>
+				<string>alt-g</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
