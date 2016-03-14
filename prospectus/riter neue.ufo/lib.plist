@@ -26,6 +26,93 @@
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>6</integer>
+			<key>name</key>
+			<string>serif top</string>
+			<key>x</key>
+			<integer>396</integer>
+			<key>y</key>
+			<integer>92</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>serif curve end</string>
+			<key>x</key>
+			<integer>397</integer>
+			<key>y</key>
+			<integer>74</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>serif shoulder</string>
+			<key>x</key>
+			<integer>389</integer>
+			<key>y</key>
+			<integer>49</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>serif curve end</string>
+			<key>x</key>
+			<integer>344</integer>
+			<key>y</key>
+			<integer>622</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>serif curve begin</string>
+			<key>x</key>
+			<integer>339</integer>
+			<key>y</key>
+			<integer>607</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>serif height from top</string>
+			<key>x</key>
+			<integer>342</integer>
+			<key>y</key>
+			<integer>649</integer>
+		</dict>
+	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -245,6 +332,8 @@
 				<string>twosuperior</string>
 				<string>components</string>
 				<string>alt-g</string>
+				<string>H2</string>
+				<string>alt-h</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
