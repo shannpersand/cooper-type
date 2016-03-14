@@ -16,6 +16,8 @@
 	<string>G_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>H2</key>
+	<string>H2_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>L</key>
@@ -42,6 +44,8 @@
 	<string>a.glif</string>
 	<key>alt-g</key>
 	<string>alt-g.glif</string>
+	<key>alt-h</key>
+	<string>alt-h.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>components</key>
