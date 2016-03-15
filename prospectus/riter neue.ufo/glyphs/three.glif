@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="561"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="274" y="-9" type="curve"/>
+      <point x="430" y="-9"/>
+      <point x="507" y="112"/>
+      <point x="507" y="214" type="curve"/>
+      <point x="507" y="307"/>
+      <point x="435" y="403"/>
+      <point x="330" y="403" type="curve"/>
+      <point x="263" y="403"/>
+      <point x="220" y="378"/>
+      <point x="220" y="365" type="curve"/>
+      <point x="255" y="359" type="line"/>
+      <point x="474" y="551" type="line"/>
+      <point x="432" y="648" type="line"/>
+      <point x="80" y="648" type="line" smooth="yes"/>
+      <point x="74" y="648"/>
+      <point x="64" y="493"/>
+      <point x="66" y="491" type="curve" smooth="yes"/>
+      <point x="71" y="486"/>
+      <point x="78" y="488"/>
+      <point x="91" y="488" type="curve" smooth="yes"/>
+      <point x="104" y="488"/>
+      <point x="109" y="488"/>
+      <point x="115" y="491" type="curve" smooth="yes"/>
+      <point x="119" y="493"/>
+      <point x="137" y="541"/>
+      <point x="143" y="552" type="curve"/>
+      <point x="146" y="560"/>
+      <point x="152" y="564"/>
+      <point x="159" y="564" type="curve"/>
+      <point x="332" y="564" type="line"/>
+      <point x="339" y="561"/>
+      <point x="344" y="557"/>
+      <point x="346" y="550" type="curve"/>
+      <point x="137" y="368" type="line"/>
+      <point x="181" y="281" type="line"/>
+      <point x="205" y="305"/>
+      <point x="242" y="326"/>
+      <point x="302" y="326" type="curve"/>
+      <point x="369" y="326"/>
+      <point x="405" y="274"/>
+      <point x="405" y="213" type="curve"/>
+      <point x="405" y="160"/>
+      <point x="353" y="81"/>
+      <point x="261" y="81" type="curve"/>
+      <point x="169" y="81"/>
+      <point x="104" y="148"/>
+      <point x="104" y="205" type="curve"/>
+      <point x="59" y="150" type="line"/>
+      <point x="59" y="80"/>
+      <point x="138" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>561</integer>
+        </dict>
+        <key>x</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>561</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

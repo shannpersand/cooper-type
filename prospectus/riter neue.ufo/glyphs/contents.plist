@@ -52,6 +52,8 @@
 	<string>components.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>four</key>
+	<string>four.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>h</key>
@@ -72,6 +74,10 @@
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>three</key>
+	<string>three.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>v</key>
