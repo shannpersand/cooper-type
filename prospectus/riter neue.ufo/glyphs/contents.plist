@@ -10,8 +10,12 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>D</key>
+	<string>D_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
+	<key>F</key>
+	<string>F_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>H</key>
@@ -20,6 +24,8 @@
 	<string>H2_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>M</key>
@@ -40,6 +46,14 @@
 	<string>U_.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
+	<key>W</key>
+	<string>W_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>alt-g</key>
