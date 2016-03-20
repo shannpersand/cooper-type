@@ -15,12 +15,16 @@
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
 	</array>
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>550</integer>
+		<integer>565</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
