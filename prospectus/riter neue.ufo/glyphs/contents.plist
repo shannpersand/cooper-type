@@ -36,6 +36,8 @@
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>Q</key>
+	<string>Q_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>S</key>
@@ -66,6 +68,8 @@
 	<string>c.glif</string>
 	<key>components</key>
 	<string>components.glif</string>
+	<key>d</key>
+	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>four</key>
@@ -86,6 +90,8 @@
 	<string>o.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>p</key>
+	<string>p.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>s</key>
