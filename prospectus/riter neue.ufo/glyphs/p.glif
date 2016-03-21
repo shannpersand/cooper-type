@@ -26,22 +26,22 @@
       <point x="115" y="-171"/>
       <point x="109" y="-176" type="curve" smooth="yes"/>
       <point x="101" y="-182"/>
-      <point x="65" y="-198"/>
-      <point x="62" y="-201" type="curve" smooth="yes"/>
-      <point x="60" y="-208"/>
-      <point x="60" y="-213"/>
-      <point x="59" y="-225" type="curve" smooth="yes"/>
-      <point x="60" y="-239"/>
-      <point x="61" y="-245"/>
-      <point x="62" y="-250" type="curve"/>
-      <point x="305" y="-250" type="line"/>
-      <point x="307" y="-245"/>
-      <point x="309" y="-239"/>
-      <point x="309" y="-225" type="curve" smooth="yes"/>
-      <point x="309" y="-213"/>
-      <point x="308" y="-208"/>
-      <point x="304" y="-201" type="curve"/>
-      <point x="303" y="-198"/>
+      <point x="84" y="-198"/>
+      <point x="81" y="-201" type="curve" smooth="yes"/>
+      <point x="79" y="-208"/>
+      <point x="79" y="-213"/>
+      <point x="78" y="-225" type="curve" smooth="yes"/>
+      <point x="79" y="-239"/>
+      <point x="80" y="-245"/>
+      <point x="81" y="-250" type="curve"/>
+      <point x="308" y="-250" type="line"/>
+      <point x="310" y="-245"/>
+      <point x="312" y="-239"/>
+      <point x="312" y="-225" type="curve" smooth="yes"/>
+      <point x="312" y="-213"/>
+      <point x="311" y="-208"/>
+      <point x="307" y="-201" type="curve"/>
+      <point x="306" y="-198"/>
       <point x="248" y="-182"/>
       <point x="235" y="-176" type="curve" smooth="yes"/>
       <point x="227" y="-173"/>
@@ -86,6 +86,50 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>719</integer>
+        </dict>
+        <key>x</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>719</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -31,11 +31,64 @@
       <point x="300" y="78"/>
       <point x="160" y="161"/>
     </contour>
+    <contour>
+      <point x="891" y="-70" type="line"/>
+      <point x="495" y="8" type="line"/>
+      <point x="315" y="7" type="line"/>
+      <point x="363" y="-16" type="line"/>
+      <point x="748" y="-132" type="line"/>
+      <point x="886" y="-116" type="line"/>
+      <point x="900" y="-98" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>779</integer>
+        </dict>
+        <key>x</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>779</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

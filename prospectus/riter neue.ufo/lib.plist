@@ -334,6 +334,7 @@
 				<string>alt-g</string>
 				<string>H2</string>
 				<string>alt-h</string>
+				<string>alt-P</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -553,6 +554,7 @@
 		<string>alt-g</string>
 		<string>H2</string>
 		<string>alt-h</string>
+		<string>alt-P</string>
 	</array>
 </dict>
 </plist>
