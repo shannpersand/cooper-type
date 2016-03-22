@@ -78,6 +78,10 @@
 	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
@@ -88,6 +92,8 @@
 	<string>g.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>j</key>
@@ -100,6 +106,8 @@
 	<string>m.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>one</key>
@@ -114,6 +122,10 @@
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>three</key>
