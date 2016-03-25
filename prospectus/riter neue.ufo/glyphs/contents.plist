@@ -66,6 +66,8 @@
 	<string>alt-g.glif</string>
 	<key>alt-h</key>
 	<string>alt-h.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
 	<key>b</key>
@@ -80,6 +82,8 @@
 	<string>components.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>dollar</key>
+	<string>dollar.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
@@ -112,6 +116,8 @@
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>numbersign</key>
+	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>one</key>
