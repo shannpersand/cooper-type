@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="361"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="147" y="733" type="line"/>
+      <point x="147" y="745"/>
+      <point x="141" y="750"/>
+      <point x="135" y="750" type="curve"/>
+      <point x="66" y="750" type="line"/>
+      <point x="58" y="750"/>
+      <point x="54" y="746"/>
+      <point x="54" y="735" type="curve"/>
+      <point x="54" y="478" type="line"/>
+      <point x="54" y="467"/>
+      <point x="58" y="463"/>
+      <point x="66" y="463" type="curve"/>
+      <point x="135" y="463" type="line"/>
+      <point x="141" y="463"/>
+      <point x="147" y="468"/>
+      <point x="147" y="480" type="curve"/>
+    </contour>
+    <contour>
+      <point x="307" y="733" type="line"/>
+      <point x="307" y="745"/>
+      <point x="301" y="750"/>
+      <point x="295" y="750" type="curve"/>
+      <point x="226" y="750" type="line"/>
+      <point x="218" y="750"/>
+      <point x="214" y="746"/>
+      <point x="214" y="735" type="curve"/>
+      <point x="214" y="478" type="line"/>
+      <point x="214" y="467"/>
+      <point x="218" y="463"/>
+      <point x="226" y="463" type="curve"/>
+      <point x="295" y="463" type="line"/>
+      <point x="301" y="463"/>
+      <point x="307" y="468"/>
+      <point x="307" y="480" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>361</integer>
+        </dict>
+        <key>x</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>361</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

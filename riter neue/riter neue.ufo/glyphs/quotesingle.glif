@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="216"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="154" y="733" type="line"/>
+      <point x="154" y="745"/>
+      <point x="148" y="750"/>
+      <point x="142" y="750" type="curve"/>
+      <point x="73" y="750" type="line"/>
+      <point x="65" y="750"/>
+      <point x="61" y="746"/>
+      <point x="61" y="735" type="curve"/>
+      <point x="61" y="478" type="line"/>
+      <point x="61" y="467"/>
+      <point x="65" y="463"/>
+      <point x="73" y="463" type="curve"/>
+      <point x="142" y="463" type="line"/>
+      <point x="148" y="463"/>
+      <point x="154" y="468"/>
+      <point x="154" y="480" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotesingle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>216</integer>
+        </dict>
+        <key>x</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotesingle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>216</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
