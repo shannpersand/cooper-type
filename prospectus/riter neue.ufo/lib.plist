@@ -555,6 +555,8 @@
 		<string>H2</string>
 		<string>alt-h</string>
 		<string>alt-P</string>
+		<string>quotedblright</string>
+		<string>quotedblleft</string>
 	</array>
 </dict>
 </plist>
