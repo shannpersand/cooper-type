@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/fgriessh/Desktop/_instances"/>
+    <data name="previewtext" value="Interpolation"/>
+    <data name="verticalPreviewAxis" value="contrast"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="100.000000" minimum="0.000000" name="contrast" shortname="ct">
+        <color a="1.000" b="0.614" g="0.000" r="1.000"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="1.000000" minimum="0.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.000" g="0.821" r="1.000"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Typeface Family Master" filename="Master_0.ufo" sortorder="0" stylename="0">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Typeface Family Master" filename="Master_1.ufo" sortorder="1" stylename="1">
+        <location>
+            <dimension name="weight" xvalue="0.368000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </master>
+    <master familyname="Typeface Family Master" filename="Master_2.ufo" sortorder="2" stylename="2">
+        <location>
+            <dimension name="weight" xvalue="1.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Typeface Family Master" filename="Master_3.ufo" sortorder="3" stylename="3">
+        <location>
+            <dimension name="weight" xvalue="1.000000"/>
+            <dimension name="contrast" xvalue="100.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-Semibold.ufo" sortorder="7" stylename="Semibold">
+        <location>
+            <dimension name="weight" xvalue="0.600000"/>
+            <dimension name="contrast" xvalue="60.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-Bold.ufo" sortorder="8" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="0.824000"/>
+            <dimension name="contrast" xvalue="82.400000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-Light.ufo" sortorder="5" stylename="Light">
+        <location>
+            <dimension name="weight" xvalue="0.150000"/>
+            <dimension name="contrast" xvalue="15.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-Regular.ufo" sortorder="6" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="0.394000"/>
+            <dimension name="contrast" xvalue="39.400000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-ExtraLight.ufo" sortorder="4" stylename="ExtraLight">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Higher Contrast" filename="_instances/HigherContrast-Black.ufo" sortorder="9" stylename="Black">
+        <location>
+            <dimension name="weight" xvalue="1.000000"/>
+            <dimension name="contrast" xvalue="100.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-Semibold.ufo" sortorder="13" stylename="Semibold">
+        <location>
+            <dimension name="weight" xvalue="0.600000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-Bold.ufo" sortorder="14" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="0.824000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-Light.ufo" sortorder="11" stylename="Light">
+        <location>
+            <dimension name="weight" xvalue="0.150000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-Regular.ufo" sortorder="12" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="0.394000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-ExtraLight.ufo" sortorder="10" stylename="ExtraLight">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Lower Contrast" filename="_instances/LowerContrast-Black.ufo" sortorder="15" stylename="Black">
+        <location>
+            <dimension name="weight" xvalue="1.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>
