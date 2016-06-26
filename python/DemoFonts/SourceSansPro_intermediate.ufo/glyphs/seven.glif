@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="708.0"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="288.0" y="0.0" type="curve"/>
+      <point x="339.0" y="0.0" type="line"/>
+      <point x="354.0" y="249.7"/>
+      <point x="414.0" y="410.1"/>
+      <point x="645.0" y="612.6" type="curve"/>
+      <point x="645.0" y="639.4" type="line"/>
+      <point x="66.0" y="639.4" type="line"/>
+      <point x="66.0" y="599.8" type="line"/>
+      <point x="582.0" y="599.8" type="line"/>
+      <point x="387.0" y="419.7"/>
+      <point x="303.0" y="257.6"/>
+    </contour>
+  </outline>
+</glyph>

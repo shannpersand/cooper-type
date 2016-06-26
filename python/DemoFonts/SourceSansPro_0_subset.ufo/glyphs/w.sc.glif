@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.sc" format="1">
+  <advance width="732.1048"/>
+  <outline>
+    <contour>
+      <point x="174.1832" y="0.0" type="line"/>
+      <point x="209.99496" y="0.0" type="line"/>
+      <point x="328.21392" y="363.8536" type="line"/>
+      <point x="339.62856" y="405.1528"/>
+      <point x="352.8118" y="440.843466667"/>
+      <point x="364.1404" y="482.0152" type="curve"/>
+      <point x="367.9644" y="482.0152" type="line"/>
+      <point x="379.26432" y="440.843466667"/>
+      <point x="390.6216" y="405.1528"/>
+      <point x="402.03624" y="363.8536" type="curve"/>
+      <point x="522.1672" y="0.0" type="line"/>
+      <point x="558.09368" y="0.0" type="line"/>
+      <point x="702.14376" y="525.162666667" type="line"/>
+      <point x="667.766" y="525.162666667" type="line"/>
+      <point x="585.12936" y="213.889066667" type="line"/>
+      <point x="570.09148" y="156.911466667"/>
+      <point x="556.87956" y="99.7426666667"/>
+      <point x="541.84168" y="42.5738666667" type="curve"/>
+      <point x="538.01768" y="42.5738666667" type="line"/>
+      <point x="520.98176" y="99.7426666667"/>
+      <point x="503.94584" y="156.9752"/>
+      <point x="486.90992" y="213.889066667" type="curve"/>
+      <point x="384.9812" y="525.162666667" type="line"/>
+      <point x="347.46776" y="525.162666667" type="line"/>
+      <point x="245.53904" y="213.889066667" type="line"/>
+      <point x="228.50312" y="156.847733333"/>
+      <point x="211.4672" y="99.6789333333"/>
+      <point x="196.28592" y="42.5738666667" type="curve"/>
+      <point x="192.46192" y="42.5738666667" type="line"/>
+      <point x="177.42404" y="99.6789333333"/>
+      <point x="162.35748" y="156.784"/>
+      <point x="147.3196" y="213.889066667" type="curve"/>
+      <point x="64.68296" y="525.162666667" type="line"/>
+      <point x="28.1064" y="525.162666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="366.0524" y="542.689333333" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="369.81904" y="-17.5266666667" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

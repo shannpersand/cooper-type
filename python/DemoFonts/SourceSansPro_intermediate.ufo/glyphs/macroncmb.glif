@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncmb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-180.0" y="606.0" type="line"/>
+      <point x="180.0" y="606.0" type="line"/>
+      <point x="180.0" y="642.0" type="line"/>
+      <point x="-180.0" y="642.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="504.0" type="move" name="_aboveLC"/>
+    </contour>
+  </outline>
+</glyph>

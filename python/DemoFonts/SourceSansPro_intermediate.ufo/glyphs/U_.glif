@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="945.0"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="471.0" y="-12.0" type="curve" smooth="yes"/>
+      <point x="630.0" y="-12.0"/>
+      <point x="798.0" y="47.0"/>
+      <point x="798.0" y="252.8" type="curve" smooth="yes"/>
+      <point x="798.0" y="659.0" type="line"/>
+      <point x="753.0" y="659.0" type="line"/>
+      <point x="753.0" y="258.0" type="line" smooth="yes"/>
+      <point x="753.0" y="82.6"/>
+      <point x="618.0" y="29.8"/>
+      <point x="471.0" y="29.8" type="curve" smooth="yes"/>
+      <point x="327.0" y="29.8"/>
+      <point x="195.0" y="82.6"/>
+      <point x="195.0" y="258.0" type="curve" smooth="yes"/>
+      <point x="195.0" y="659.0" type="line"/>
+      <point x="147.0" y="659.0" type="line"/>
+      <point x="147.0" y="252.8" type="line" smooth="yes"/>
+      <point x="147.0" y="47.0"/>
+      <point x="312.0" y="-12.0"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="681.0" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="765.0" y="669.0" type="move" name="hornLC"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="0.0" type="move" name="ogonekUC"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="-22.0" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

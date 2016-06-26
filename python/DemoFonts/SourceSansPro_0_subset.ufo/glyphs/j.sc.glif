@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.sc" format="1">
+  <advance width="437.77152"/>
+  <outline>
+    <contour>
+      <point x="192.11776" y="-9.56" type="curve" smooth="yes"/>
+      <point x="303.98888" y="-9.56"/>
+      <point x="344.94392" y="57.4237333333"/>
+      <point x="344.94392" y="141.934133333" type="curve" smooth="yes"/>
+      <point x="344.94392" y="525.162666667" type="line"/>
+      <point x="310.33672" y="525.162666667" type="line"/>
+      <point x="310.33672" y="145.758133333" type="line" smooth="yes"/>
+      <point x="310.33672" y="59.9093333333"/>
+      <point x="272.49824" y="21.8605333333"/>
+      <point x="193.28408" y="21.8605333333" type="curve" smooth="yes"/>
+      <point x="138.69648" y="21.8605333333"/>
+      <point x="100.68592" y="39.2597333333"/>
+      <point x="68.52608" y="84.4466666667" type="curve"/>
+      <point x="41.08888" y="67.1749333333" type="line"/>
+      <point x="72.13976" y="17.9090666667"/>
+      <point x="124.16528" y="-9.56"/>
+    </contour>
+    <contour>
+      <point x="323.87368" y="542.689333333" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="230.47248" y="-17.5266666667" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

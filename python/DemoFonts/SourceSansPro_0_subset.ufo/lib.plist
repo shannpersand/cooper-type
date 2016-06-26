@@ -13,7 +13,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/just/code/misc.python/DrawBot/2016-06-25 CooperWest workshop day 1/DemoFonts/SourceSansPro_0_subset.otf</string>
+	<string>/Users/smiwa/cooper/python/DemoFonts/SourceSansPro_0_subset.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>

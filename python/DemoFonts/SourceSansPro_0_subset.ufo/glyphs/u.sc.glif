@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="1">
+  <advance width="603.48456"/>
+  <outline>
+    <contour>
+      <point x="300.87232" y="-9.56" type="curve" smooth="yes"/>
+      <point x="404.388" y="-9.56"/>
+      <point x="510.65696" y="36.6466666667"/>
+      <point x="510.65696" y="200.313866667" type="curve" smooth="yes"/>
+      <point x="510.65696" y="525.162666667" type="line"/>
+      <point x="478.07648" y="525.162666667" type="line"/>
+      <point x="478.07648" y="204.902666667" type="line" smooth="yes"/>
+      <point x="478.07648" y="64.1157333333"/>
+      <point x="393.69992" y="21.8605333333"/>
+      <point x="300.87232" y="21.8605333333" type="curve" smooth="yes"/>
+      <point x="209.89936" y="21.8605333333"/>
+      <point x="127.4348" y="64.1157333333"/>
+      <point x="127.4348" y="204.902666667" type="curve" smooth="yes"/>
+      <point x="127.4348" y="525.162666667" type="line"/>
+      <point x="92.8276" y="525.162666667" type="line"/>
+      <point x="92.8276" y="200.313866667" type="line" smooth="yes"/>
+      <point x="92.8276" y="36.6466666667"/>
+      <point x="197.35664" y="-9.56"/>
+    </contour>
+    <contour>
+      <point x="300.81496" y="542.689333333" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="488.76456" y="533.129333333" type="move" name="hornLC"/>
+    </contour>
+    <contour>
+      <point x="300.81496" y="0.0" type="move" name="ogonekUC"/>
+    </contour>
+    <contour>
+      <point x="300.81496" y="-17.5266666667" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

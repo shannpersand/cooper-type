@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="780.0"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="15.0" y="0.0" type="line"/>
+      <point x="63.0" y="0.0" type="line"/>
+      <point x="273.0" y="388.0" type="line" smooth="yes"/>
+      <point x="315.0" y="466.2"/>
+      <point x="351.0" y="535.2"/>
+      <point x="387.0" y="615.6" type="curve"/>
+      <point x="393.0" y="615.6" type="line"/>
+      <point x="429.0" y="535.3"/>
+      <point x="465.0" y="466.2"/>
+      <point x="507.0" y="388.0" type="curve" smooth="yes"/>
+      <point x="714.0" y="0.0" type="line"/>
+      <point x="765.0" y="0.0" type="line"/>
+      <point x="411.0" y="659.0" type="line"/>
+      <point x="369.0" y="659.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="168.0" y="226.2" type="line"/>
+      <point x="607.5" y="226.2" type="line"/>
+      <point x="607.5" y="264.7" type="line"/>
+      <point x="168.0" y="264.7" type="line"/>
+    </contour>
+    <contour>
+      <point x="390.0" y="681.0" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="684.0" y="0.0" type="move" name="ogonekUC"/>
+    </contour>
+    <contour>
+      <point x="390.0" y="-22.0" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>
