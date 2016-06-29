@@ -52,9 +52,9 @@
 			<key>name</key>
 			<string>serif curve end</string>
 			<key>x</key>
-			<integer>397</integer>
+			<integer>626</integer>
 			<key>y</key>
-			<integer>74</integer>
+			<integer>100</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -111,6 +111,20 @@
 			<integer>342</integer>
 			<key>y</key>
 			<integer>649</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>top serif</string>
+			<key>x</key>
+			<integer>675</integer>
+			<key>y</key>
+			<integer>500</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
