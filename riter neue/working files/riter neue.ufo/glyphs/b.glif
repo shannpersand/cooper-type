@@ -28,10 +28,7 @@
       <point x="95" y="680"/>
       <point x="95" y="649" type="curve"/>
       <point x="95" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="135" y="0"/>
-      <point x="140" y="7"/>
-      <point x="144" y="15" type="curve"/>
+      <point x="139" y="0" type="line"/>
       <point x="197" y="97" type="line"/>
       <point x="179" y="95" type="line"/>
       <point x="179" y="49"/>
