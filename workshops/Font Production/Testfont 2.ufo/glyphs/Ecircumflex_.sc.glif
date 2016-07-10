@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex.sc" format="1">
+  <advance width="475"/>
+  <outline>
+    <contour>
+      <point x="117" y="609" type="line"/>
+      <point x="153" y="583" type="line"/>
+      <point x="263" y="676" type="line"/>
+      <point x="267" y="676" type="line"/>
+      <point x="377" y="583" type="line"/>
+      <point x="413" y="609" type="line"/>
+      <point x="308" y="722" type="line"/>
+      <point x="222" y="722" type="line"/>
+    </contour>
+    <component base="E.sc"/>
+  </outline>
+</glyph>

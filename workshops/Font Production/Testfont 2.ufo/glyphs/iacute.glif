@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="1">
+  <advance width="246"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="109" y="573" type="line"/>
+      <point x="266" y="726" type="line"/>
+      <point x="208" y="781" type="line"/>
+      <point x="67" y="614" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

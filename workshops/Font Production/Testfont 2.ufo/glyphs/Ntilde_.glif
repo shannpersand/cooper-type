@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="647"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="402" y="709" type="curve" smooth="yes"/>
+      <point x="462" y="709"/>
+      <point x="500" y="755"/>
+      <point x="504" y="832" type="curve"/>
+      <point x="448" y="836" type="line"/>
+      <point x="443" y="793"/>
+      <point x="425" y="770"/>
+      <point x="400" y="770" type="curve" smooth="yes"/>
+      <point x="353" y="770"/>
+      <point x="327" y="841"/>
+      <point x="252" y="841" type="curve" smooth="yes"/>
+      <point x="192" y="841"/>
+      <point x="154" y="794"/>
+      <point x="150" y="718" type="curve"/>
+      <point x="206" y="714" type="line"/>
+      <point x="210" y="757"/>
+      <point x="229" y="780"/>
+      <point x="254" y="780" type="curve" smooth="yes"/>
+      <point x="301" y="780"/>
+      <point x="327" y="709"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+</glyph>

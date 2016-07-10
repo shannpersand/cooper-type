@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute.sc" format="1">
+  <advance width="415"/>
+  <outline>
+    <contour>
+      <point x="191" y="581" type="line"/>
+      <point x="343" y="696" type="line"/>
+      <point x="296" y="751" type="line"/>
+      <point x="154" y="623" type="line"/>
+    </contour>
+    <component base="Y.sc"/>
+  </outline>
+</glyph>

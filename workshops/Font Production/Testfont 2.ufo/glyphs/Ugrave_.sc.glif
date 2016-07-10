@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave.sc" format="1">
+  <advance width="583"/>
+  <outline>
+    <contour>
+      <point x="309" y="581" type="line"/>
+      <point x="346" y="623" type="line"/>
+      <point x="204" y="751" type="line"/>
+      <point x="157" y="696" type="line"/>
+    </contour>
+    <component base="U.sc"/>
+  </outline>
+</glyph>

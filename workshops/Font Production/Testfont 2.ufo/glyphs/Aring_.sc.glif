@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring.sc" format="1">
+  <advance width="470"/>
+  <outline>
+    <contour>
+      <point x="234" y="583" type="curve" smooth="yes"/>
+      <point x="289" y="583"/>
+      <point x="331" y="619"/>
+      <point x="331" y="673" type="curve" smooth="yes"/>
+      <point x="331" y="728"/>
+      <point x="289" y="764"/>
+      <point x="234" y="764" type="curve" smooth="yes"/>
+      <point x="178" y="764"/>
+      <point x="137" y="728"/>
+      <point x="137" y="673" type="curve" smooth="yes"/>
+      <point x="137" y="619"/>
+      <point x="178" y="583"/>
+    </contour>
+    <contour>
+      <point x="234" y="619" type="curve" smooth="yes"/>
+      <point x="205" y="619"/>
+      <point x="182" y="638"/>
+      <point x="182" y="673" type="curve" smooth="yes"/>
+      <point x="182" y="707"/>
+      <point x="205" y="727"/>
+      <point x="234" y="727" type="curve" smooth="yes"/>
+      <point x="261" y="727"/>
+      <point x="285" y="707"/>
+      <point x="285" y="673" type="curve" smooth="yes"/>
+      <point x="285" y="638"/>
+      <point x="261" y="619"/>
+    </contour>
+    <component base="A.sc"/>
+  </outline>
+</glyph>

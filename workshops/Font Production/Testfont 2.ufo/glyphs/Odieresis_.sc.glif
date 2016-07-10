@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis.sc" format="1">
+  <advance width="589"/>
+  <outline>
+    <contour>
+      <point x="192" y="599" type="curve" smooth="yes"/>
+      <point x="221" y="599"/>
+      <point x="241" y="620"/>
+      <point x="241" y="648" type="curve" smooth="yes"/>
+      <point x="241" y="677"/>
+      <point x="221" y="697"/>
+      <point x="192" y="697" type="curve" smooth="yes"/>
+      <point x="164" y="697"/>
+      <point x="143" y="677"/>
+      <point x="143" y="648" type="curve" smooth="yes"/>
+      <point x="143" y="620"/>
+      <point x="164" y="599"/>
+    </contour>
+    <contour>
+      <point x="398" y="599" type="curve" smooth="yes"/>
+      <point x="426" y="599"/>
+      <point x="447" y="620"/>
+      <point x="447" y="648" type="curve" smooth="yes"/>
+      <point x="447" y="677"/>
+      <point x="426" y="697"/>
+      <point x="398" y="697" type="curve" smooth="yes"/>
+      <point x="369" y="697"/>
+      <point x="349" y="677"/>
+      <point x="349" y="648" type="curve" smooth="yes"/>
+      <point x="349" y="620"/>
+      <point x="369" y="599"/>
+    </contour>
+    <component base="O.sc"/>
+  </outline>
+</glyph>
