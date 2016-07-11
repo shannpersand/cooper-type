@@ -44,4 +44,4 @@ ftxt2.append("?!:;,.&@#$")
 
 textBox(ftxt2, (100, 20, 500, 700))
 
-saveImage("test.pdf")
+saveImage("test-3.pdf")

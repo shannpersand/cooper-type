@@ -1,0 +1,87 @@
+Font Tools Maintenance
+
+Font Data
+	Overview
+		what’s in a font
+		history of formats: type1, TrueType, OpenType
+	Source Formats
+		for each, where specification, how and when currently used, whcih tool works with which.
+		Bez
+		Ikarus
+		Type1
+		CID
+		Multiple Master
+		UFO
+		vfb
+
+AFDKO
+	Overview
+		What it is for
+	Building AFDKO
+		Python interpreters
+		Third party libraries
+		Command line tools
+		Adobe-only tools and legal issues
+			IS, AddGlobalColor
+			ai2bez
+			BezierLab
+			Copyright redaction
+		Test harness
+		Legal issues
+		
+	Source Code Management
+		GitHub
+		Perforce
+	AFDKO Forums and Sites
+		AFDKO site
+		OpenType site
+		Font Technical Notes
+
+Font Development
+	Source Management
+	Design process
+	Release Process
+	Read-Me generation
+	Font List generation (WOFL, etc)
+	
+Font signing service
+	Overview
+	Scripts and processes.
+
+TWB2
+	history and overview
+	Source Code control
+	Building TWB2
+	Development
+	External scripts
+	Cube beta site
+		what it is for, how to post data
+	
+Showroom Data
+	history
+	csv files
+	
+Repeating Issues
+
+	Deprecated Type1 operators.
+		UID/XUID
+		ForceBold
+		seac
+		dot
+		TradeMark vs Copyright vs Note
+		
+	Name Table Problems
+		Mac font names
+		Windows NAME ID 4
+		WPF names
+		
+	Metrics Table Problems
+		vertical metrics
+
+Old Data
+	content and locations
+TypeCGI
+SING/TIN
+OpenType Conversion
+SUN OS: data and tools
+
