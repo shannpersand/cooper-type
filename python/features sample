@@ -1,0 +1,25 @@
+@smallcaps_source = [ exclam quotesingle quotedbl ampersand parenleft parenright hyphen zero one two three four five six seven eight nine question a b c d e f g h i j k l m n o p q r s t u v w x y z bracketleft bracketright braceleft braceright exclamdown questiondown agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls quoteleft quoteright ]
+@smallcaps_target = [ exclam.sc quotesingle.sc quotedbl.sc ampersand.sc parenleft.sc parenright.sc hyphen.sc zero.sc one.sc two.sc three.sc four.sc five.sc six.sc seven.sc eight.sc nine.sc question.sc a.sc b.sc c.sc d.sc e.sc f.sc g.sc h.sc i.sc j.sc k.sc l.sc m.sc n.sc o.sc p.sc q.sc r.sc s.sc t.sc u.sc v.sc w.sc x.sc y.sc z.sc bracketleft.sc bracketright.sc braceleft.sc braceright.sc exclamdown.sc questiondown.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc quoteleft.sc quoteright.sc ]
+
+feature smcp {
+    sub @smallcaps_source by @smallcaps_target;
+    } smcp;
+
+    feature liga {
+    sub f f i by f_f_i;
+    sub f f by f_f;
+    } liga;
+
+feature calt {
+    sub p' o' o' h e a d by u1F4A9;
+    sub [P p]' o' o' head by ____
+    } calt;
+
+feature kern {
+    pos A V -100;
+} kern;
+
+feature kern {
+    pos A V <0 -100 0 0>;
+    # <movement_x movement_y adjustment_x adjustment_y>
+} kern;

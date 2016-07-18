@@ -5,11 +5,9 @@
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>capHeight</key>
-	<integer>700</integer>
+	<integer>750</integer>
 	<key>descender</key>
 	<integer>-200</integer>
-	<key>familyName</key>
-	<string>Riter Neue</string>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -28,13 +26,9 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
-	<key>styleName</key>
-	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>550</integer>
+	<integer>525</integer>
 </dict>
 </plist>
