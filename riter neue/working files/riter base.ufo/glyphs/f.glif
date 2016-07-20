@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="365"/>
+  <advance width="349"/>
   <unicode hex="0066"/>
   <outline>
+    <contour>
+      <point x="101" y="602" type="line"/>
+      <point x="101" y="777"/>
+      <point x="159" y="812"/>
+      <point x="265" y="812" type="curve"/>
+      <point x="322" y="813"/>
+      <point x="391" y="802"/>
+      <point x="402" y="791" type="curve"/>
+      <point x="402" y="689" type="line"/>
+      <point x="350" y="689" type="line"/>
+      <point x="313" y="746" type="line"/>
+      <point x="219" y="746"/>
+      <point x="200" y="724"/>
+      <point x="200" y="591" type="curve"/>
+      <point x="200" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="524" type="line"/>
+      <point x="326" y="524" type="line"/>
+      <point x="326" y="462" type="line"/>
+      <point x="37" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="49" type="line"/>
+      <point x="101" y="75" type="line"/>
+      <point x="200" y="75" type="line"/>
+      <point x="308" y="49" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

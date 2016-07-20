@@ -533,6 +533,10 @@
 		<string>florin</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
+		<string>serif-top</string>
+		<string>serif-omega</string>
+		<string>serif-alpha</string>
+		<string>bowl-large</string>
 	</array>
 </dict>
 </plist>
