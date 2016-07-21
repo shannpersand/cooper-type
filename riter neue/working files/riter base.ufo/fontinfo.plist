@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Riter</string>
+	<string>Riter Teue</string>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -29,9 +29,13 @@
 	<array>
 	</array>
 	<key>styleName</key>
-	<string>base</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>525</integer>
 </dict>
