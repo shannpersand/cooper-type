@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1005"/>
+  <advance width="1009"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="514" y="411" type="line"/>
-      <point x="521" y="464"/>
-      <point x="608" y="538"/>
-      <point x="734" y="537" type="curve"/>
-      <point x="873" y="538"/>
-      <point x="907" y="474"/>
-      <point x="907" y="341" type="curve"/>
-      <point x="907" y="0" type="line"/>
-      <point x="807" y="0" type="line"/>
-      <point x="807" y="306" type="line" smooth="yes"/>
-      <point x="807" y="411"/>
-      <point x="787" y="454"/>
-      <point x="710" y="454" type="curve"/>
-      <point x="633" y="454"/>
-      <point x="573" y="403"/>
-      <point x="553" y="344" type="curve"/>
-      <point x="553" y="0" type="line"/>
-      <point x="453" y="0" type="line"/>
-      <point x="453" y="305" type="line" smooth="yes"/>
-      <point x="453" y="412"/>
-      <point x="431" y="454"/>
-      <point x="355" y="454" type="curve"/>
-      <point x="275" y="454"/>
-      <point x="218" y="391"/>
-      <point x="200" y="338" type="curve"/>
-      <point x="200" y="0" type="line"/>
-      <point x="101" y="0" type="line"/>
-      <point x="101" y="439" type="line"/>
-      <point x="30" y="474" type="line"/>
-      <point x="30" y="525" type="line"/>
-      <point x="182" y="525" type="line"/>
-      <point x="182" y="402" type="line"/>
-      <point x="165" y="397" type="line"/>
-      <point x="177" y="446"/>
-      <point x="250" y="538"/>
-      <point x="395" y="538" type="curve"/>
-      <point x="478" y="538"/>
-      <point x="541" y="509"/>
-      <point x="541" y="378" type="curve"/>
+      <point x="516" y="411" type="line"/>
+      <point x="523" y="464"/>
+      <point x="610" y="538"/>
+      <point x="736" y="537" type="curve"/>
+      <point x="875" y="538"/>
+      <point x="909" y="474"/>
+      <point x="909" y="341" type="curve"/>
+      <point x="909" y="0" type="line"/>
+      <point x="809" y="0" type="line"/>
+      <point x="809" y="306" type="line" smooth="yes"/>
+      <point x="809" y="411"/>
+      <point x="789" y="454"/>
+      <point x="712" y="454" type="curve"/>
+      <point x="635" y="454"/>
+      <point x="575" y="403"/>
+      <point x="555" y="344" type="curve"/>
+      <point x="555" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="455" y="305" type="line" smooth="yes"/>
+      <point x="455" y="412"/>
+      <point x="433" y="454"/>
+      <point x="357" y="454" type="curve"/>
+      <point x="277" y="454"/>
+      <point x="220" y="391"/>
+      <point x="202" y="338" type="curve"/>
+      <point x="202" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="439" type="line"/>
+      <point x="32" y="474" type="line"/>
+      <point x="32" y="525" type="line"/>
+      <point x="184" y="525" type="line"/>
+      <point x="184" y="402" type="line"/>
+      <point x="167" y="397" type="line"/>
+      <point x="179" y="446"/>
+      <point x="252" y="538"/>
+      <point x="397" y="538" type="curve"/>
+      <point x="480" y="538"/>
+      <point x="543" y="509"/>
+      <point x="543" y="378" type="curve"/>
     </contour>
-    <component base="serif-alpha" xOffset="370"/>
-    <component base="serif-alpha" xOffset="18"/>
-    <component base="serif-omega" xOffset="646"/>
+    <component base="serif-alpha" xOffset="372"/>
+    <component base="serif-alpha" xOffset="20"/>
+    <component base="serif-omega" xOffset="648"/>
   </outline>
   <lib>
     <dict>
@@ -68,7 +68,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>363</integer>
+                <integer>365</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -81,7 +81,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>18</integer>
+                <integer>20</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -98,7 +98,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1005</integer>
+          <integer>1009</integer>
         </dict>
       </dict>
     </dict>
