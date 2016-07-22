@@ -2,10 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>B</key>
+	<string>B_.glif</string>
+	<key>H</key>
+	<string>H_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
+	<key>L</key>
+	<string>L_.glif</string>
+	<key>O</key>
+	<string>O_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>b</key>
@@ -48,6 +56,8 @@
 	<string>s.glif</string>
 	<key>serif-alpha</key>
 	<string>serif-alpha.glif</string>
+	<key>serif-even</key>
+	<string>serif-even.glif</string>
 	<key>serif-omega</key>
 	<string>serif-omega.glif</string>
 	<key>serif-top</key>
