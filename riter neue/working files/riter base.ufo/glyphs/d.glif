@@ -13,32 +13,32 @@
       <point x="428" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="478" y="451" type="curve"/>
-      <point x="442" y="403" type="line"/>
-      <point x="426" y="437"/>
-      <point x="374" y="471"/>
-      <point x="282" y="471" type="curve"/>
-      <point x="170" y="471"/>
-      <point x="149" y="385"/>
-      <point x="149" y="263" type="curve" smooth="yes"/>
-      <point x="149" y="146"/>
-      <point x="190" y="61"/>
-      <point x="262" y="61" type="curve"/>
-      <point x="356" y="61"/>
-      <point x="407" y="136"/>
-      <point x="441" y="203" type="curve"/>
-      <point x="468" y="153" type="line"/>
-      <point x="437" y="86"/>
-      <point x="401" y="-16"/>
-      <point x="240" y="-16" type="curve"/>
-      <point x="120" y="-16"/>
-      <point x="45" y="81"/>
-      <point x="45" y="263" type="curve" smooth="yes"/>
-      <point x="45" y="448"/>
-      <point x="100" y="548"/>
-      <point x="261" y="548" type="curve"/>
-      <point x="398" y="548"/>
-      <point x="450" y="499"/>
+      <point x="483" y="451" type="curve"/>
+      <point x="447" y="403" type="line"/>
+      <point x="431" y="437"/>
+      <point x="379" y="471"/>
+      <point x="287" y="471" type="curve"/>
+      <point x="175" y="471"/>
+      <point x="154" y="385"/>
+      <point x="154" y="263" type="curve" smooth="yes"/>
+      <point x="154" y="146"/>
+      <point x="195" y="61"/>
+      <point x="267" y="61" type="curve"/>
+      <point x="361" y="61"/>
+      <point x="412" y="136"/>
+      <point x="446" y="203" type="curve"/>
+      <point x="473" y="153" type="line"/>
+      <point x="442" y="86"/>
+      <point x="406" y="-16"/>
+      <point x="245" y="-16" type="curve"/>
+      <point x="125" y="-16"/>
+      <point x="50" y="81"/>
+      <point x="50" y="263" type="curve" smooth="yes"/>
+      <point x="50" y="448"/>
+      <point x="105" y="548"/>
+      <point x="266" y="548" type="curve"/>
+      <point x="403" y="548"/>
+      <point x="455" y="499"/>
     </contour>
     <component base="serif-top" xOffset="343" yOffset="275"/>
   </outline>
