@@ -26,10 +26,29 @@
       <point x="114" y="2" type="line"/>
       <point x="114" y="525" type="line"/>
     </contour>
+    <contour>
+      <point x="114" y="439" type="line"/>
+      <point x="43" y="474" type="line"/>
+      <point x="43" y="525" type="line"/>
+      <point x="195" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="49" type="line"/>
+      <point x="466" y="75" type="line"/>
+      <point x="565" y="75" type="line"/>
+      <point x="641" y="49" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="49" type="line"/>
+      <point x="114" y="75" type="line"/>
+      <point x="213" y="75" type="line"/>
+      <point x="313" y="49" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
     <component base="component01" xOffset="88" yOffset="-96"/>
-    <component base="serif-alpha" xOffset="31"/>
-    <component base="serif-omega" xOffset="305"/>
-    <component base="serif-top" xOffset="28"/>
   </outline>
   <lib>
     <dict>

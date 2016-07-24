@@ -40,6 +40,6 @@
       <point x="407" y="543"/>
       <point x="470" y="433"/>
     </contour>
-    <component base="serif-omega" xOffset="264" yOffset="-200"/>
+    <component base="serif-omega" xOffset="255" yOffset="-200"/>
   </outline>
 </glyph>

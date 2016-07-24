@@ -9,7 +9,7 @@
       <point x="110" y="800" type="line"/>
       <point x="208" y="800" type="line"/>
     </contour>
-    <component base="serif-omega" xOffset="-52"/>
-    <component base="serif-top" xOffset="24" yOffset="275"/>
+    <component base="serif-omega" xOffset="-62"/>
+    <component base="serif-top" xOffset="17" yOffset="275"/>
   </outline>
 </glyph>

@@ -29,6 +29,6 @@
       <point x="86" y="781"/>
       <point x="92" y="793"/>
     </contour>
-    <component base="serif-top" xOffset="21"/>
+    <component base="serif-top" xOffset="10"/>
   </outline>
 </glyph>

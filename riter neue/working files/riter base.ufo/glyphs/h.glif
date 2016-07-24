@@ -28,8 +28,8 @@
       <point x="572" y="0" type="line"/>
       <point x="472" y="0" type="line"/>
     </contour>
-    <component base="serif-alpha" xOffset="33"/>
-    <component base="serif-omega" xOffset="310"/>
+    <component base="serif-alpha" xOffset="24"/>
+    <component base="serif-omega" xOffset="302"/>
   </outline>
   <lib>
     <dict>

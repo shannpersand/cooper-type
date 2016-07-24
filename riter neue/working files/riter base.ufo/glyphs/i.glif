@@ -23,7 +23,7 @@
       <point x="99" y="781"/>
       <point x="105" y="793"/>
     </contour>
-    <component base="serif-omega" xOffset="-43"/>
+    <component base="serif-omega" xOffset="-52"/>
     <component base="serif-top" xOffset="34"/>
   </outline>
   <lib>

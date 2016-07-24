@@ -31,7 +31,7 @@
       <point x="455" y="450" type="line"/>
       <point x="378" y="468" type="line"/>
     </contour>
-    <component base="serif-omega" xOffset="-63"/>
-    <component base="serif-top" xOffset="13" yOffset="275"/>
+    <component base="serif-omega" xOffset="-73"/>
+    <component base="serif-top" xOffset="3" yOffset="275"/>
   </outline>
 </glyph>
