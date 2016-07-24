@@ -347,6 +347,7 @@
 				<string>serif-omega</string>
 				<string>serif-alpha</string>
 				<string>bowl-large</string>
+				<string>serif-even</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
