@@ -14,6 +14,8 @@
 	<string>serif-end-lc.glif</string>
 	<key>serif-top-lc</key>
 	<string>serif-top-lc.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
 	<key>stem-lc</key>
 	<string>stem-lc.glif</string>
 	<key>stem-lc-tall</key>

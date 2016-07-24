@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Riter</string>
+	<string>Riter Basic</string>
 	<key>italicAngle</key>
 	<real>-13.0</real>
 	<key>postscriptBlueValues</key>
@@ -30,6 +30,8 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleMapStyleName</key>
+	<string>italic</string>
 	<key>styleName</key>
 	<string>Italic</string>
 	<key>unitsPerEm</key>
