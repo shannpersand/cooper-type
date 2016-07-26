@@ -17,7 +17,7 @@
       <point x="278" y="788"/>
       <point x="292" y="792"/>
     </contour>
-    <component base="serif-end-lc" xOffset="-41"/>
+    <component base="serif-end-lc" xOffset="-50"/>
     <component base="serif-top-lc" xOffset="-98" yOffset="5"/>
     <component base="stem-lc" xOffset="-5"/>
   </outline>

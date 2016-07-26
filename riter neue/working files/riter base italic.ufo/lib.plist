@@ -272,6 +272,9 @@
 				<string>florin</string>
 				<string>guillemotleft</string>
 				<string>guillemotright</string>
+				<string>stem-lc</string>
+				<string>serif-end-lc</string>
+				<string>serif-top-lc</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -511,6 +514,7 @@
 		<string>stem-lc</string>
 		<string>serif-end-lc</string>
 		<string>serif-top-lc</string>
+		<string>stem-lc-tall</string>
 	</array>
 </dict>
 </plist>
