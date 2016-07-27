@@ -4,9 +4,9 @@
 <dict>
 	<key>com.typemytype.robofont.a.layerStrokeColor</key>
 	<array>
-		<real>0.5</real>
 		<real>1.0</real>
 		<real>0.0</real>
+		<real>0.2712</real>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
@@ -23,6 +23,13 @@
 		<real>0.2</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.c.layerStrokeColor</key>
+	<array>
+		<real>0.0</real>
+		<real>1.0</real>
+		<real>1.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -35,6 +42,13 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<false/>
+	<key>com.typemytype.robofont.d.layerStrokeColor</key>
+	<array>
+		<real>0.0</real>
+		<real>0.25</real>
+		<real>1.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -49,6 +63,8 @@
 		<string>background</string>
 		<string>a</string>
 		<string>b</string>
+		<string>c</string>
+		<string>d</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
