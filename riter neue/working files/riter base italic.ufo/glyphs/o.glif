@@ -5,29 +5,29 @@
   <outline>
     <contour>
       <point x="576" y="159"/>
-      <point x="486" y="-29"/>
-      <point x="316" y="-29" type="curve"/>
-      <point x="167" y="-29"/>
+      <point x="486" y="-26"/>
+      <point x="316" y="-26" type="curve"/>
+      <point x="167" y="-26"/>
       <point x="103" y="74"/>
       <point x="103" y="157" type="curve"/>
       <point x="103" y="351"/>
-      <point x="188" y="553"/>
-      <point x="368" y="553" type="curve"/>
-      <point x="508" y="553"/>
+      <point x="188" y="548"/>
+      <point x="368" y="548" type="curve"/>
+      <point x="508" y="548"/>
       <point x="576" y="453"/>
       <point x="576" y="378" type="curve"/>
     </contour>
     <contour>
       <point x="200" y="112"/>
-      <point x="234" y="46"/>
-      <point x="320" y="46" type="curve" smooth="yes"/>
-      <point x="406" y="46"/>
+      <point x="234" y="49"/>
+      <point x="320" y="49" type="curve" smooth="yes"/>
+      <point x="406" y="49"/>
       <point x="479" y="185"/>
       <point x="479" y="358" type="curve"/>
       <point x="479" y="421"/>
-      <point x="438" y="478"/>
-      <point x="358" y="478" type="curve" smooth="yes"/>
-      <point x="274" y="478"/>
+      <point x="438" y="473"/>
+      <point x="358" y="473" type="curve" smooth="yes"/>
+      <point x="274" y="473"/>
       <point x="200" y="331"/>
       <point x="200" y="171" type="curve"/>
     </contour>
@@ -274,7 +274,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0257463737881</real>
+          <real>558.025746374</real>
         </dict>
         <key>b</key>
         <dict>
@@ -514,7 +514,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0257463737881</real>
+          <real>558.025746374</real>
         </dict>
         <key>background</key>
         <dict>
@@ -972,7 +972,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0257463737881</real>
+          <real>558.025746374</real>
         </dict>
         <key>c</key>
         <dict>
@@ -1007,7 +1007,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0257463737881</real>
+          <real>558.025746374</real>
         </dict>
         <key>d</key>
         <dict>
@@ -1247,7 +1247,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0257463737881</real>
+          <real>558.025746374</real>
         </dict>
       </dict>
     </dict>
