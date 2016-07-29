@@ -49,6 +49,16 @@
 		<real>1.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.foreground.layerShow</key>
+	<true/>
+	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
+	<false/>
+	<key>com.typemytype.robofont.foreground.layerShowFill</key>
+	<false/>
+	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
+	<false/>
+	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
+	<true/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>

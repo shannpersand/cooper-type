@@ -31,7 +31,7 @@
       <point x="286" y="741" type="line"/>
       <point x="109" y="0" type="line"/>
     </contour>
-    <component base="serif-top-lc" xOffset="-32" yOffset="281"/>
+    <component base="serif-top-lc" xOffset="-32" yOffset="283"/>
     <component base="serif-end-lc" xOffset="296"/>
   </outline>
 </glyph>
