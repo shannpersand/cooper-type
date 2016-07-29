@@ -18,9 +18,9 @@
 	</array>
 	<key>PyDEBackgroundColor</key>
 	<array>
-		<real>0.1266974803664922</real>
-		<real>0.1266974803664922</real>
-		<real>0.1266974803664922</real>
+		<real>0.13221940445026181</real>
+		<real>0.13221940445026181</real>
+		<real>0.13221940445026181</real>
 		<real>1</real>
 	</array>
 	<key>PyDEHightLightColor</key>
@@ -35,7 +35,7 @@
 		<key>Token</key>
 		<string>98BBB7</string>
 		<key>Token.Comment</key>
-		<string>4B4B4B</string>
+		<string>494949 italic</string>
 		<key>Token.Error</key>
 		<string>FF3700</string>
 		<key>Token.Generic.Emph</key>
@@ -91,7 +91,7 @@
 		<key>Token.Operator.Word</key>
 		<string>9041D5</string>
 		<key>Token.Punctuation</key>
-		<string>6E6E6E</string>
+		<string>CCCCCC bold</string>
 		<key>Token.Text</key>
 		<string>B5B5B5 bold</string>
 	</dict>
@@ -103,6 +103,238 @@
 	<string>/Users/shannpersand/Library/Autosave Information</string>
 	<key>charsets</key>
 	<dict>
+		<key>Adobe Latin 1</key>
+		<array>
+			<string>space</string>
+			<string>exclam</string>
+			<string>quotedbl</string>
+			<string>numbersign</string>
+			<string>dollar</string>
+			<string>percent</string>
+			<string>ampersand</string>
+			<string>quotesingle</string>
+			<string>parenleft</string>
+			<string>parenright</string>
+			<string>asterisk</string>
+			<string>plus</string>
+			<string>comma</string>
+			<string>hyphen</string>
+			<string>period</string>
+			<string>slash</string>
+			<string>zero</string>
+			<string>one</string>
+			<string>two</string>
+			<string>three</string>
+			<string>four</string>
+			<string>five</string>
+			<string>six</string>
+			<string>seven</string>
+			<string>eight</string>
+			<string>nine</string>
+			<string>colon</string>
+			<string>semicolon</string>
+			<string>less</string>
+			<string>equal</string>
+			<string>greater</string>
+			<string>question</string>
+			<string>at</string>
+			<string>A</string>
+			<string>B</string>
+			<string>C</string>
+			<string>D</string>
+			<string>E</string>
+			<string>F</string>
+			<string>G</string>
+			<string>H</string>
+			<string>I</string>
+			<string>J</string>
+			<string>K</string>
+			<string>L</string>
+			<string>M</string>
+			<string>N</string>
+			<string>O</string>
+			<string>P</string>
+			<string>Q</string>
+			<string>R</string>
+			<string>S</string>
+			<string>T</string>
+			<string>U</string>
+			<string>V</string>
+			<string>W</string>
+			<string>X</string>
+			<string>Y</string>
+			<string>Z</string>
+			<string>bracketleft</string>
+			<string>backslash</string>
+			<string>bracketright</string>
+			<string>asciicircum</string>
+			<string>underscore</string>
+			<string>grave</string>
+			<string>a</string>
+			<string>b</string>
+			<string>c</string>
+			<string>d</string>
+			<string>e</string>
+			<string>f</string>
+			<string>g</string>
+			<string>h</string>
+			<string>i</string>
+			<string>j</string>
+			<string>k</string>
+			<string>l</string>
+			<string>m</string>
+			<string>n</string>
+			<string>o</string>
+			<string>p</string>
+			<string>q</string>
+			<string>r</string>
+			<string>s</string>
+			<string>t</string>
+			<string>u</string>
+			<string>v</string>
+			<string>w</string>
+			<string>x</string>
+			<string>y</string>
+			<string>z</string>
+			<string>braceleft</string>
+			<string>bar</string>
+			<string>braceright</string>
+			<string>asciitilde</string>
+			<string>exclamdown</string>
+			<string>cent</string>
+			<string>sterling</string>
+			<string>currency</string>
+			<string>yen</string>
+			<string>brokenbar</string>
+			<string>section</string>
+			<string>dieresis</string>
+			<string>copyright</string>
+			<string>ordfeminine</string>
+			<string>guillemotleft</string>
+			<string>logicalnot</string>
+			<string>registered</string>
+			<string>macron</string>
+			<string>degree</string>
+			<string>plusminus</string>
+			<string>twosuperior</string>
+			<string>threesuperior</string>
+			<string>acute</string>
+			<string>uni00B5</string>
+			<string>paragraph</string>
+			<string>periodcentered</string>
+			<string>cedilla</string>
+			<string>onesuperior</string>
+			<string>ordmasculine</string>
+			<string>guillemotright</string>
+			<string>onequarter</string>
+			<string>onehalf</string>
+			<string>threequarters</string>
+			<string>questiondown</string>
+			<string>Agrave</string>
+			<string>Aacute</string>
+			<string>Acircumflex</string>
+			<string>Atilde</string>
+			<string>Adieresis</string>
+			<string>Aring</string>
+			<string>AE</string>
+			<string>Ccedilla</string>
+			<string>Egrave</string>
+			<string>Eacute</string>
+			<string>Ecircumflex</string>
+			<string>Edieresis</string>
+			<string>Igrave</string>
+			<string>Iacute</string>
+			<string>Icircumflex</string>
+			<string>Idieresis</string>
+			<string>Eth</string>
+			<string>Ntilde</string>
+			<string>Ograve</string>
+			<string>Oacute</string>
+			<string>Ocircumflex</string>
+			<string>Otilde</string>
+			<string>Odieresis</string>
+			<string>multiply</string>
+			<string>Oslash</string>
+			<string>Ugrave</string>
+			<string>Uacute</string>
+			<string>Ucircumflex</string>
+			<string>Udieresis</string>
+			<string>Yacute</string>
+			<string>Thorn</string>
+			<string>germandbls</string>
+			<string>agrave</string>
+			<string>aacute</string>
+			<string>acircumflex</string>
+			<string>atilde</string>
+			<string>adieresis</string>
+			<string>aring</string>
+			<string>ae</string>
+			<string>ccedilla</string>
+			<string>egrave</string>
+			<string>eacute</string>
+			<string>ecircumflex</string>
+			<string>edieresis</string>
+			<string>igrave</string>
+			<string>iacute</string>
+			<string>icircumflex</string>
+			<string>idieresis</string>
+			<string>eth</string>
+			<string>ntilde</string>
+			<string>ograve</string>
+			<string>oacute</string>
+			<string>ocircumflex</string>
+			<string>otilde</string>
+			<string>odieresis</string>
+			<string>divide</string>
+			<string>oslash</string>
+			<string>ugrave</string>
+			<string>uacute</string>
+			<string>ucircumflex</string>
+			<string>udieresis</string>
+			<string>yacute</string>
+			<string>thorn</string>
+			<string>ydieresis</string>
+			<string>dotlessi</string>
+			<string>Lslash</string>
+			<string>lslash</string>
+			<string>OE</string>
+			<string>oe</string>
+			<string>Scaron</string>
+			<string>scaron</string>
+			<string>Ydieresis</string>
+			<string>Zcaron</string>
+			<string>zcaron</string>
+			<string>florin</string>
+			<string>circumflex</string>
+			<string>caron</string>
+			<string>breve</string>
+			<string>dotaccent</string>
+			<string>ring</string>
+			<string>ogonek</string>
+			<string>tilde</string>
+			<string>hungarumlaut</string>
+			<string>endash</string>
+			<string>emdash</string>
+			<string>quoteleft</string>
+			<string>quoteright</string>
+			<string>quotesinglbase</string>
+			<string>quotedblleft</string>
+			<string>quotedblright</string>
+			<string>quotedblbase</string>
+			<string>dagger</string>
+			<string>daggerdbl</string>
+			<string>bullet</string>
+			<string>ellipsis</string>
+			<string>perthousand</string>
+			<string>guilsinglleft</string>
+			<string>guilsinglright</string>
+			<string>fraction</string>
+			<string>Euro</string>
+			<string>trademark</string>
+			<string>minus</string>
+			<string>fi</string>
+			<string>fl</string>
+		</array>
 		<key>Latin-1</key>
 		<array>
 			<string>space</string>
@@ -305,6 +537,8 @@
 			<string>hungarumlaut</string>
 			<string>quoteleft</string>
 			<string>quoteright</string>
+			<string>quotedblleft</string>
+			<string>quotedblright</string>
 			<string>minus</string>
 		</array>
 	</dict>
@@ -329,19 +563,19 @@
 	<key>eventMaxItemsInToolbar</key>
 	<integer>7</integer>
 	<key>fontCollectionViewGlyphSize</key>
-	<integer>50</integer>
+	<integer>75</integer>
 	<key>fontWindowShowSetsPane</key>
-	<false/>
+	<true/>
 	<key>fontWindowShowSmartListArgumentsPane</key>
-	<integer>0</integer>
+	<false/>
 	<key>glyphCellViewUnicodeReplacement</key>
 	<string>✍</string>
 	<key>glyphViewAddAnchorKey</key>
 	<string></string>
 	<key>glyphViewAddComponentKey</key>
-	<string></string>
+	<string>a</string>
 	<key>glyphViewAddExtremesKey</key>
-	<string></string>
+	<string>x</string>
 	<key>glyphViewAllowsJoiningContours</key>
 	<integer>1</integer>
 	<key>glyphViewAlternateFillColor</key>
@@ -429,7 +663,7 @@
 		<real>0.0</real>
 		<real>0.0</real>
 		<real>0.0</real>
-		<real>0.5</real>
+		<real>1</real>
 	</array>
 	<key>glyphViewContourIndexColor</key>
 	<array>
@@ -439,7 +673,7 @@
 		<real>1</real>
 	</array>
 	<key>glyphViewCopyLayerToLayerKey</key>
-	<string>l</string>
+	<string></string>
 	<key>glyphViewCornerPointsFill</key>
 	<array>
 		<real>0.67151097714879449</real>
@@ -471,7 +705,7 @@
 		<real>1</real>
 	</array>
 	<key>glyphViewDecomponentKey</key>
-	<string></string>
+	<string>d</string>
 	<key>glyphViewDefaultHeight</key>
 	<integer>3000</integer>
 	<key>glyphViewDefaultWidth</key>
@@ -493,9 +727,9 @@
 		<real>0.8958056294326241</real>
 	</array>
 	<key>glyphViewFlipHorizontalKey</key>
-	<string></string>
+	<string>h</string>
 	<key>glyphViewFlipVerticalKey</key>
-	<string></string>
+	<string>v</string>
 	<key>glyphViewGlobalGuidesColor</key>
 	<array>
 		<real>0.080861801706300945</real>
@@ -538,11 +772,11 @@
 		<real>1</real>
 	</array>
 	<key>glyphViewJumpToGlyphKey</key>
-	<string></string>
+	<string>g</string>
 	<key>glyphViewLayerDownKey</key>
-	<string></string>
+	<string>l</string>
 	<key>glyphViewLayerUpKey</key>
-	<string></string>
+	<string>L</string>
 	<key>glyphViewLocalGuidesColor</key>
 	<array>
 		<real>0.91212910353535359</real>
@@ -607,8 +841,8 @@
 	<key>glyphViewOffCurvePointsFill</key>
 	<array>
 		<real>1</real>
-		<real>0.66293549067746882</real>
-		<real>0.15058180438247071</real>
+		<real>0.66293549070000002</real>
+		<real>0.15058180439999999</real>
 		<real>1</real>
 	</array>
 	<key>glyphViewOffCurvePointsSize</key>
@@ -685,15 +919,15 @@
 	<key>glyphViewQuickPreviewKey</key>
 	<string>`</string>
 	<key>glyphViewRemoveOverlapKey</key>
-	<string></string>
+	<string>r</string>
 	<key>glyphViewReverseContourKey</key>
 	<string></string>
 	<key>glyphViewRotate45clockWiseKey</key>
-	<string></string>
+	<string>R</string>
 	<key>glyphViewRotate45counterClockWiseKey</key>
 	<string></string>
 	<key>glyphViewRotate90clockWiseKey</key>
-	<string></string>
+	<string>r</string>
 	<key>glyphViewRotate90counterClockwiseKey</key>
 	<string></string>
 	<key>glyphViewRoundValues</key>
@@ -789,10 +1023,10 @@
 	<string></string>
 	<key>glyphViewSmoothPointStroke</key>
 	<array>
-		<real>0.0</real>
-		<real>0.0</real>
-		<real>0.0</real>
-		<real>0.71919326241134751</real>
+		<real>0.28855121073298429</real>
+		<real>0.28855121073298429</real>
+		<real>0.28855121073298429</real>
+		<real>1</real>
 	</array>
 	<key>glyphViewStartPointsArrowColor</key>
 	<array>
@@ -882,7 +1116,7 @@
 		</array>
 	</array>
 	<key>newDocumentCharset</key>
-	<string>Latin-1</string>
+	<string>Adobe Latin 1</string>
 	<key>newDocumentCreateDefaultset</key>
 	<integer>1</integer>
 	<key>newGlyphWidth</key>
@@ -890,7 +1124,7 @@
 	<key>popupOutPutWindowOnWrite</key>
 	<integer>0</integer>
 	<key>pythonDir</key>
-	<string>/Users/shannpersand/Library/Application Support/RoboFont/scripts</string>
+	<string>/Users/smiwa/cooper/scripts</string>
 	<key>removeGlyphNameInGroups</key>
 	<integer>0</integer>
 	<key>removeGlyphNameInKerning</key>
@@ -985,10 +1219,10 @@
 	</array>
 	<key>spaceCenterHightLightColor</key>
 	<array>
-		<real>0.75767936310447337</real>
-		<real>0.42750438948214486</real>
-		<real>1</real>
-		<real>0.29927415780141847</real>
+		<real>0.68582787968562597</real>
+		<real>0.70179627204255313</real>
+		<real>0.70080024076835723</real>
+		<real>0.094157400306748462</real>
 	</array>
 	<key>spaceCenterInputSamples</key>
 	<array>
@@ -996,6 +1230,11 @@
 		<string>ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
 		<string>0123456789</string>
 		<string>nn/? nn oo/? oo</string>
+		<string>HH/? HH OO/? OO</string>
+		<string>HAHBHCHDHEHFH
+HGHIHJHKHLHMHNH
+NHOHPHQHRHSHTH
+HUHVHWHXHYHZH</string>
 	</array>
 	<key>spaceCenterInputSelectionColor</key>
 	<array>
@@ -1019,7 +1258,7 @@
 		<real>1</real>
 	</array>
 	<key>spaceCenterPointSize</key>
-	<integer>150</integer>
+	<real>144.00000000000003</real>
 	<key>spaceCenterPointSizes</key>
 	<array>
 		<string>9</string>
