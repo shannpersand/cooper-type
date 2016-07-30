@@ -3,14 +3,9 @@
   <advance width="332.306108942"/>
   <unicode hex="0049"/>
   <outline>
-    <contour>
-      <point x="217" y="21" type="line" smooth="yes"/>
-      <point x="385" y="750" type="line"/>
-      <point x="285" y="750" type="line"/>
-      <point x="117" y="21" type="line"/>
-    </contour>
-    <component base="serif-end-lc" xOffset="-47"/>
+    <component base="serif-end-lc" xOffset="-43"/>
     <component base="serif-top-lc" xOffset="-41" yOffset="231"/>
+    <component base="stem-uc"/>
   </outline>
   <lib>
     <dict>
@@ -62,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>332.306108941991</real>
+          <real>332.306108942</real>
         </dict>
         <key>b</key>
         <dict>
@@ -139,7 +134,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>332.306108941991</real>
+          <real>332.306108942</real>
         </dict>
         <key>background</key>
         <dict>
@@ -187,7 +182,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>332.306108941991</real>
+          <real>332.306108942</real>
         </dict>
       </dict>
     </dict>
