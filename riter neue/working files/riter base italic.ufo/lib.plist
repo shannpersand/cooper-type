@@ -335,6 +335,8 @@
 				<string>serif-end-lc</string>
 				<string>serif-top-lc</string>
 				<string>stem-lc-tall</string>
+				<string>stem-uc</string>
+				<string>serif-even</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
