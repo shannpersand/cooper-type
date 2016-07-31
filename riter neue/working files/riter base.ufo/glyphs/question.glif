@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="1">
-  <advance width="645"/>
+  <advance width="648"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
       <point x="323" y="221" type="line"/>
-      <point x="335" y="307" type="line"/>
-      <point x="389" y="307" type="line"/>
-      <point x="510" y="307"/>
-      <point x="559" y="396"/>
-      <point x="559" y="557" type="curve"/>
-      <point x="559" y="740"/>
-      <point x="517" y="798"/>
-      <point x="311" y="798" type="curve"/>
-      <point x="123" y="798"/>
-      <point x="74" y="698"/>
-      <point x="74" y="687" type="curve"/>
-      <point x="86" y="563" type="line"/>
-      <point x="163" y="563" type="line"/>
-      <point x="178" y="663" type="line"/>
-      <point x="196" y="684"/>
-      <point x="256" y="699"/>
-      <point x="303" y="699" type="curve"/>
-      <point x="417" y="699"/>
-      <point x="447" y="677"/>
-      <point x="447" y="564" type="curve"/>
-      <point x="447" y="460"/>
-      <point x="432" y="396"/>
-      <point x="321" y="396" type="curve"/>
-      <point x="231" y="396" type="line"/>
+      <point x="335" y="288" type="line"/>
+      <point x="374" y="288" type="line"/>
+      <point x="476" y="288"/>
+      <point x="564" y="406"/>
+      <point x="564" y="567" type="curve"/>
+      <point x="564" y="738"/>
+      <point x="502" y="818"/>
+      <point x="311" y="818" type="curve"/>
+      <point x="123" y="818"/>
+      <point x="74" y="718"/>
+      <point x="74" y="707" type="curve"/>
+      <point x="86" y="578" type="line"/>
+      <point x="178" y="578" type="line"/>
+      <point x="193" y="683" type="line"/>
+      <point x="211" y="704"/>
+      <point x="256" y="719"/>
+      <point x="303" y="719" type="curve"/>
+      <point x="389" y="719"/>
+      <point x="437" y="674"/>
+      <point x="437" y="574" type="curve"/>
+      <point x="437" y="470"/>
+      <point x="403" y="377"/>
+      <point x="304" y="377" type="curve"/>
+      <point x="231" y="377" type="line"/>
       <point x="240" y="221" type="line"/>
     </contour>
     <contour>

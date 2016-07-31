@@ -62,16 +62,22 @@
 	<string>bowl-large.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>j</key>
@@ -96,6 +102,16 @@
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
+	<key>quoteleft</key>
+	<string>quoteleft.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>
