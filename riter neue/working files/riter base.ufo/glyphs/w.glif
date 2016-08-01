@@ -24,12 +24,12 @@
       <point x="226" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="688" y="476" type="line"/>
-      <point x="688" y="525" type="line"/>
+      <point x="692" y="476" type="line"/>
+      <point x="692" y="525" type="line"/>
       <point x="904" y="525" type="line"/>
       <point x="904" y="476" type="line"/>
-      <point x="834" y="450" type="line"/>
-      <point x="740" y="450" type="line"/>
+      <point x="838" y="450" type="line"/>
+      <point x="744" y="450" type="line"/>
     </contour>
     <contour>
       <point x="502" y="525" type="line" smooth="yes"/>

@@ -92,10 +92,12 @@
 			<integer>5</integer>
 			<key>name</key>
 			<string></string>
+			<key>showMeasurements</key>
+			<integer>0</integer>
 			<key>x</key>
 			<integer>263</integer>
 			<key>y</key>
-			<integer>673</integer>
+			<integer>675</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
