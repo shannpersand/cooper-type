@@ -1,0 +1,3 @@
+[submodule "riter neue/riter-preso"]
+	path = riter neue/riter-preso
+	url = git@github.com:shannpersand/riter-preso.git
