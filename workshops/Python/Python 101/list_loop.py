@@ -31,6 +31,7 @@ for any_name in glyph_names_list:
   print addSuffixToName(any_name, 1)
 #  print any_name + ".ss01"
 
+
   # built in length function with comparison operator
   # stylistic set for non-compounds ss02
   if len(any_name) == 1:
