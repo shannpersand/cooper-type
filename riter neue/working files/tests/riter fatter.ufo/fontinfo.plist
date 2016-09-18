@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
+	<integer>750</integer>
 	<key>capHeight</key>
 	<integer>750</integer>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Riter</string>
 	<key>postscriptBlueValues</key>
@@ -28,8 +28,10 @@
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>Riter Basic</string>
 	<key>styleName</key>
-	<string>Basic</string>
+	<string>Ultra Test</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
@@ -37,6 +39,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>525</integer>
+	<integer>500</integer>
 </dict>
 </plist>
