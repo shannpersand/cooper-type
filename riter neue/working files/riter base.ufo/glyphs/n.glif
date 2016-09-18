@@ -4,42 +4,41 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="213" y="371" type="line"/>
-      <point x="213" y="75" type="line"/>
-      <point x="313" y="49" type="line"/>
       <point x="313" y="0" type="line"/>
-      <point x="72" y="0" type="line"/>
-      <point x="72" y="49" type="line"/>
-      <point x="114" y="75" type="line"/>
-      <point x="114" y="439" type="line"/>
-      <point x="43" y="474" type="line"/>
-      <point x="43" y="525" type="line"/>
-      <point x="195" y="525" type="line"/>
+      <point x="313" y="49" type="line"/>
+      <point x="213" y="75" type="line"/>
+      <point x="213" y="371" type="line"/>
       <point x="195" y="412" type="line"/>
+      <point x="195" y="525" type="line"/>
+      <point x="43" y="525" type="line"/>
+      <point x="43" y="474" type="line"/>
+      <point x="114" y="439" type="line"/>
+      <point x="114" y="75" type="line"/>
+      <point x="72" y="49" type="line"/>
+      <point x="72" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="178" y="406" type="line"/>
-      <point x="188" y="462"/>
-      <point x="257" y="535"/>
       <point x="385" y="535" type="curve"/>
-      <point x="531" y="535"/>
-      <point x="566" y="481"/>
-      <point x="566" y="341" type="curve"/>
-      <point x="566" y="75" type="line"/>
-      <point x="641" y="49" type="line"/>
-      <point x="641" y="0" type="line"/>
-      <point x="419" y="0" type="line"/>
-      <point x="419" y="49" type="line"/>
-      <point x="467" y="75" type="line"/>
-      <point x="467" y="313" type="line"/>
-      <point x="467" y="431"/>
-      <point x="449" y="456"/>
-      <point x="366" y="456" type="curve"/>
-      <point x="292" y="456"/>
+      <point x="257" y="535"/>
+      <point x="188" y="462"/>
+      <point x="178" y="406" type="curve"/>
+      <point x="204" y="313" type="line"/>
       <point x="229" y="409"/>
-      <point x="204" y="313" type="curve"/>
+      <point x="292" y="456"/>
+      <point x="366" y="456" type="curve"/>
+      <point x="449" y="456"/>
+      <point x="467" y="431"/>
+      <point x="467" y="313" type="curve"/>
+      <point x="467" y="75" type="line"/>
+      <point x="419" y="49" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="641" y="49" type="line"/>
+      <point x="566" y="75" type="line"/>
+      <point x="566" y="341" type="line"/>
+      <point x="566" y="481"/>
+      <point x="531" y="535"/>
     </contour>
-    <component base="component01" xOffset="88" yOffset="-96"/>
   </outline>
   <lib>
     <dict>

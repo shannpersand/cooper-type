@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <sources>
+        <source filename="../riter base.ufo" name="master.Riter.Basic.0">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="Weight" xvalue="0.000000" />
+            </location>
+        </source>
+        <source filename="riter fattest.ufo" name="master.Riter.Ultra Test 2.1">
+            <location>
+                <dimension name="Weight" xvalue="1000.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Riter medium" filename="instances/Ritermedium-x184.72.ufo" postscriptfontname="Ritermedium-x184.72" stylename="x184.72">
+            <location>
+                <dimension name="Weight" xvalue="165.966835" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Riter Semi Bold" filename="instances/RiterSemiBold-x1429.26.ufo" postscriptfontname="RiterSemiBold-x1429.26" stylename="x1429.26">
+            <location>
+                <dimension name="Weight" xvalue="429.260254" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Riter Bold" filename="instances/RiterBold-x1697.73.ufo" postscriptfontname="RiterBold-x1697.73" stylename="x1697.73">
+            <location>
+                <dimension name="Weight" xvalue="697.726780" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

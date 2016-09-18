@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="serif-even" format="1">
+  <advance width="520"/>
+  <outline>
+    <contour>
+      <point x="300" y="663" type="line"/>
+      <point x="377" y="698" type="line"/>
+      <point x="377" y="749" type="line"/>
+      <point x="125" y="749" type="line"/>
+      <point x="125" y="698" type="line"/>
+      <point x="202" y="663" type="line"/>
+    </contour>
+  </outline>
+</glyph>

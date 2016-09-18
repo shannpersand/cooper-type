@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="Weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/smiwa/cooper/riter neue/working files/tests/instances"/>
+    <data name="previewtext" value="aneo"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="Weight" shortname="x1">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Riter" filename="../riter base.ufo" sortorder="0" stylename="Basic">
+        <location>
+            <dimension name="Weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </master>
+    <master familyname="Riter" filename="riter fattest.ufo" sortorder="1" stylename="Ultra Test 2">
+        <location>
+            <dimension name="Weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Riter medium" filename="instances/Ritermedium-x184.72.ufo" sortorder="2" stylename="x184.72">
+        <location>
+            <dimension name="Weight" xvalue="165.966835"/>
+        </location>
+    </instance>
+    <instance familyname="Riter Semi Bold" filename="instances/RiterSemiBold-x1429.26.ufo" sortorder="3" stylename="x1429.26">
+        <location>
+            <dimension name="Weight" xvalue="429.260254"/>
+        </location>
+    </instance>
+    <instance familyname="Riter Bold" filename="instances/RiterBold-x1697.73.ufo" sortorder="4" stylename="x1697.73">
+        <location>
+            <dimension name="Weight" xvalue="697.726780"/>
+        </location>
+    </instance>
+</designspace>
