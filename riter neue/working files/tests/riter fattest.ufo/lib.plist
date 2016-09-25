@@ -5,7 +5,7 @@
 	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowFill</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.background.layerShowPoints</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowStroke</key>
