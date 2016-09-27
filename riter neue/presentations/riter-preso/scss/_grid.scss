@@ -1,0 +1,56 @@
+/* screw that 12 column grid 
+   no rows here,
+   just vague handwavey fractions.
+
+   there's no gutters.
+*/
+
+.full,
+.two-halves,
+.three-thirds,
+.four-quarters,
+.five-fifths,
+.six-sixths {
+  display: block;
+  width: 100%;
+}
+
+.one-half,
+.two-quarters,
+.three-sixths
+{
+  width: 50%;
+}
+
+.one-third {
+  width: calc(100%/3);
+}
+
+.two-thirds {
+  width: calc((100%/3)*2);
+}
+
+.one-quarter {
+  width: 25%;
+}
+
+.three-quarters {
+  width: 75%;
+}
+
+.one-fifth {
+  width: calc(100%/5);
+}
+
+.two-fifths {
+  width: calc((100%/5)*2);
+}
+
+.three-fifths {
+  width: calc((100%/5)*3);
+}
+
+.four-fifths {
+  width: calc((100%/5)*4);
+}
+

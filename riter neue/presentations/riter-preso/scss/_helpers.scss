@@ -1,0 +1,35 @@
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.hide {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.clear:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a.not-text {
+  text-decoration: none;
+  background: none;
+}

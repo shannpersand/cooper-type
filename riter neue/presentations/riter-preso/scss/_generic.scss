@@ -1,0 +1,40 @@
+body {
+  font-size: $columbian;
+  line-height: 1.15;
+  font-family: $font-main;
+  background: $bg-main;
+}
+
+p {
+  font-family: $font-secondary;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  font-size: $body-copy;
+  text-decoration: none;
+}
+
+.background-main {
+  background-color: $bg-main;
+  color: $fg-main;
+
+  a {
+    @include link-underline($bg-main, transparent, $fg-lighter, $fg-darker, $fg-darker);
+
+  }
+}
+
+.background-inverse {
+  background-color: $fg-main;
+  color: $bg-main;
+
+  a {
+    @include link-underline($fg-main, transparent, $bg-lighter, $bg-darker, $bg-darker);
+
+  }
+}
+

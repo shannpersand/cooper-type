@@ -1,0 +1,8 @@
+#OS junk files
+*.DS_Store
+
+#Codekit files
+*.codekit
+/.codekit-cache
+config.codekit
+/scss/.sass-cache/*

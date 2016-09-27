@@ -1,0 +1,69 @@
+/* Paragraph Styles */
+h1 {
+  font-size: $canon;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: $five-line-nonpareil;
+}
+
+h3 {
+  font-size: $double-pica;
+}
+
+h4 {
+  font-size: $paragon;
+}
+
+p {
+  font-size: $body-copy;
+  line-height: 1.35;
+
+  &.small-caps {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: $body-copy * .75;
+  font-weight: bolder;
+  }
+}
+
+small {
+  font-size: $brevier;
+}
+
+caption {
+  font-size: $nonpareil;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+strong, .bolder {
+  font-weight: bolder;
+}
+
+.lighter {
+  font-weight: lighter;
+}
+
+em {
+  font-style: italic;
+}
+
+.capitalize {
+  text-transform: uppercase;
+}
+
+.rag-left {
+  text-align: right;
+}
+
+.rag-right {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Character Styles */

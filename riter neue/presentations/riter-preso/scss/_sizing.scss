@@ -1,0 +1,33 @@
+.size-icon {
+  max-width: 5.0rem;
+}
+
+.padding-default {
+  padding: 0 $padding;
+}
+
+.padding-all {
+  padding: $padding;
+}
+
+.margin-default {
+  margin: 0 auto;
+}
+
+.margin-text {
+  margin-top: 1.8rem;
+  margin-bottom: 2.4rem;
+}
+
+.margin-sides {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.wrapper {
+  max-width: 80rem;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5rem;
+}

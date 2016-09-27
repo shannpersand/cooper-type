@@ -1,0 +1,126 @@
+/* background and foreground colors */
+$bg-main: whitesmoke;
+$bg-darker: darken($bg-main, 10%);
+$bg-lighter: lighten($bg-main, 10%);
+
+$fg-main: deepskyblue;
+$fg-darker: darken($fg-main, 10%);
+$fg-lighter: lighten($fg-main, 10%);
+
+/* fonts */
+
+
+@font-face {
+    font-family: 'riter_basic_regularregular';
+    src: url('fonts/riter_base-webfont.woff2') format('woff2'),
+         url('fonts/riter_base-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'riter_basic_italicitalic';
+    src: url('fonts/riter_base_italic-webfont.woff2') format('woff2'),
+         url('fonts/riter_base_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* type sizes*/
+$imperial: 10.8rem;
+$sabon: 7.2rem;
+$canon: 4.4rem;
+$double-great-primer: 3.6rem;
+$five-line-nonpareil: 3.0rem;
+$double-pica: 2.4rem;
+$paragon: 2.0rem;
+$great-primer: 1.8rem;
+$columbian: 1.6rem;
+$english: 1.4rem;
+$pica: 1.2rem;
+$long-primer: 1.0rem;
+$brevier: 0.8rem;
+$nonpareil: 0.6rem;
+$diamond: 0.4rem;
+
+/* set main body copy */
+$font-main: "riter_basic_regularregular", courier, monospaced;
+$font-secondary: "riter_basic_italicitalic", courier, monospaced;
+$body-copy: $great-primer;
+
+
+/* sizes */
+$padding: 3%;
+/* pinks
+
+lightpink
+palevioletred
+deeppink
+
+*/
+
+/* light bg
+whitesmoke
+white
+snow
+mistyrose
+seashell
+linen
+oldlace
+antiquewhite
+floralwhite
+beige
+ivory
+honeydew
+mintcream
+azure
+aliceblue
+ghostwhite
+lavenderblush
+
+papayawhip
+blanchedalmond
+bisque
+cornsilk
+lemonchiffon
+lightgoldenrodyellow
+lightyellow
+lightcyan
+
+*/
+
+/* blues
+lightblue
+lightskyblue
+lightcyan
+lightsteelblue
+powderblue
+paleturquoise
+aqua
+blue
+cadetblue
+cornflowerblue
+cyan
+darkblue
+darkslateblue
+deepskyblue
+dodgerblue
+midnightblue
+mediumblue
+navy
+royalblue
+steelblue
+
+*/
+
+/* turquoise
+aquamarine
+cadetblue
+darkcyan
+darkturquoise
+lightseagreen
+mediumturquoise
+turquoise
+teal
+*/

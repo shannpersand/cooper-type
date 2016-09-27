@@ -1,0 +1,34 @@
+
+
+// Adds smart underline styles
+@mixin link-underline($link-bg-color: $content-color, $link-bg-color-hover: transparent, $link-color: $content-color, $link-color-hover: $link-border-color, $link-border-color: $link-color) {
+  color: $link-color;
+  background: linear-gradient($link-bg-color, $link-bg-color) 0 95% / .05em 1px no-repeat,
+    linear-gradient($link-bg-color, $link-bg-color) 100% 95% / .05em 1px no-repeat,
+    linear-gradient($link-border-color, $link-border-color) 0 89% / 1px 1px repeat-x;
+  text-shadow: .03em 0 $link-bg-color,
+    -.03em 0 $link-bg-color,
+    0 .03em $link-bg-color,
+    0 -.03em $link-bg-color,
+    .06em 0 $link-bg-color,
+    -.06em 0 $link-bg-color,
+    .09em 0 $link-bg-color,
+    -.09em 0 $link-bg-color,
+    .12em 0 $link-bg-color,
+    -.12em 0 $link-bg-color,
+    .15em 0 $link-bg-color,
+    -.15em 0 $link-bg-color;
+    text-decoration: none;
+   &:hover {
+    background: $link-bg-color-hover;
+    color: $link-color-hover;
+    text-decoration: none;
+  }
+}
+
+/* useage
+@include link-underline($bg-main, transparent, inherit, $fg-main, $fg-main-darker);
+  @include link-underline(background of link, background on hover, color of the link wording, color of the link on hover, color of the underline);
+*/
+
+
