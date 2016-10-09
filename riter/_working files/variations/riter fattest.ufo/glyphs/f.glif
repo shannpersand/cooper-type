@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="458"/>
+  <advance width="451"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="391" y="0" type="line"/>
-      <point x="391" y="109" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="401" y="109" type="line"/>
       <point x="307" y="135" type="line"/>
       <point x="307" y="607" type="line"/>
       <point x="307" y="653"/>
@@ -133,7 +133,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>458</integer>
+          <integer>451</integer>
         </dict>
       </dict>
     </dict>
