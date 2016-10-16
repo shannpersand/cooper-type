@@ -136,6 +136,8 @@
 	<string>semicolon.glif</string>
 	<key>serif-alpha</key>
 	<string>serif-alpha.glif</string>
+	<key>serif-big</key>
+	<string>serif-big.glif</string>
 	<key>serif-even</key>
 	<string>serif-even.glif</string>
 	<key>serif-omega</key>

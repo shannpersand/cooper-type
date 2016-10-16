@@ -49,6 +49,22 @@
 	<array>
 		<string>background</string>
 		<string>counters</string>
+		<string>original</string>
+	</array>
+	<key>com.typemytype.robofont.original.layerShowCoordinates</key>
+	<false/>
+	<key>com.typemytype.robofont.original.layerShowFill</key>
+	<true/>
+	<key>com.typemytype.robofont.original.layerShowPoints</key>
+	<false/>
+	<key>com.typemytype.robofont.original.layerShowStroke</key>
+	<true/>
+	<key>com.typemytype.robofont.original.layerStrokeColor</key>
+	<array>
+		<real>0.0</real>
+		<real>1.0</real>
+		<real>0.25</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

@@ -25,8 +25,8 @@
     <contour>
       <point x="36" y="525" type="line"/>
       <point x="328" y="525" type="line"/>
-      <point x="328" y="455" type="line"/>
-      <point x="36" y="455" type="line"/>
+      <point x="328" y="462" type="line"/>
+      <point x="36" y="462" type="line"/>
     </contour>
   </outline>
 </glyph>

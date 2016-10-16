@@ -4,6 +4,8 @@
 <dict>
 	<key>B</key>
 	<string>B_.glif</string>
+	<key>C</key>
+	<string>C_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>I</key>
@@ -52,6 +54,8 @@
 	<string>o.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>r</key>
