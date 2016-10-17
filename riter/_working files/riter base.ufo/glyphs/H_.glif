@@ -12,8 +12,8 @@
     <contour>
       <point x="315" y="0" type="line"/>
       <point x="315" y="42" type="line"/>
-      <point x="235" y="75" type="line"/>
-      <point x="235" y="675" type="line"/>
+      <point x="240" y="75" type="line"/>
+      <point x="240" y="675" type="line"/>
       <point x="315" y="703" type="line"/>
       <point x="315" y="750" type="line"/>
       <point x="65" y="750" type="line"/>
@@ -32,8 +32,8 @@
       <point x="722" y="750" type="line"/>
       <point x="472" y="750" type="line"/>
       <point x="472" y="703" type="line"/>
-      <point x="552" y="675" type="line"/>
-      <point x="552" y="75" type="line"/>
+      <point x="547" y="675" type="line"/>
+      <point x="547" y="75" type="line"/>
       <point x="472" y="42" type="line"/>
       <point x="472" y="0" type="line"/>
     </contour>
