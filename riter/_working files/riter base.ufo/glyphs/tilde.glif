@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="614"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="503" y="744" type="curve"/>
+      <point x="439" y="750" type="line"/>
+      <point x="436" y="700"/>
+      <point x="413" y="681"/>
+      <point x="375" y="681" type="curve"/>
+      <point x="307" y="681"/>
+      <point x="302" y="769"/>
+      <point x="197" y="769" type="curve"/>
+      <point x="114" y="768"/>
+      <point x="67" y="706"/>
+      <point x="64" y="635" type="curve"/>
+      <point x="128" y="624" type="line"/>
+      <point x="133" y="659"/>
+      <point x="155" y="689"/>
+      <point x="194" y="689" type="curve"/>
+      <point x="257" y="689"/>
+      <point x="272" y="600"/>
+      <point x="371" y="600" type="curve"/>
+      <point x="452" y="600"/>
+      <point x="498" y="656"/>
+    </contour>
+    <contour>
+      <point x="111.0" y="591.0" type="move" name="_lefty"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>614</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

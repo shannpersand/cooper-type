@@ -56,6 +56,8 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
 	<key>b</key>
@@ -64,6 +66,10 @@
 	<string>bowl-large.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>cedilla</key>
+	<string>cedilla.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -110,10 +116,20 @@
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>oacute</key>
+	<string>oacute.glif</string>
+	<key>ocedilla</key>
+	<string>ocedilla.glif</string>
+	<key>ocircumflex</key>
+	<string>ocircumflex.glif</string>
 	<key>odieresis</key>
 	<string>odieresis.glif</string>
+	<key>ograve</key>
+	<string>ograve.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>otilde</key>
+	<string>otilde.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>period</key>
@@ -160,6 +176,8 @@
 	<string>t.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
