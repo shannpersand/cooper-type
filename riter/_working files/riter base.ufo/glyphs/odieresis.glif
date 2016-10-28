@@ -5,5 +5,8 @@
   <outline>
     <component base="o"/>
     <component base="dieresis" xOffset="49" yOffset="-33"/>
+    <contour>
+      <point x="306" y="597" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

@@ -36,10 +36,8 @@
       <point x="380" y="-151" type="line"/>
       <point x="429" y="-125" type="line"/>
       <point x="429" y="412" type="line"/>
-      <point x="443" y="525" type="line"/>
-      <point x="593" y="525" type="line"/>
-      <point x="593" y="479" type="line"/>
-      <point x="525" y="438" type="line"/>
+      <point x="450" y="535" type="line"/>
+      <point x="525" y="535" type="line"/>
       <point x="525" y="-125" type="line"/>
       <point x="602" y="-151" type="line"/>
       <point x="602" y="-200" type="line"/>
