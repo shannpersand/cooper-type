@@ -375,6 +375,7 @@
 				<string>bowl-large</string>
 				<string>serif-even</string>
 				<string>serif-big</string>
+				<string>ocedilla</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -618,6 +619,7 @@
 		<string>serif-even</string>
 		<string>serif-big</string>
 		<string>ocedilla</string>
+		<string>.notdef</string>
 	</array>
 </dict>
 </plist>
