@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>RoboChrome.py</string>
+			<key>preferredName</key>
+			<string>RoboChrome</string>
+			<key>shortKey</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>FontFont</string>
+	<key>developerURL</key>
+	<string>https://github.com/fontfont</string>
+	<key>html</key>
+	<true/>
+	<key>launchAtStartUp</key>
+	<integer>0</integer>
+	<key>mainScript</key>
+	<string></string>
+	<key>name</key>
+	<string>RoboChrome</string>
+	<key>requiresVersionMajor</key>
+	<string>1</string>
+	<key>requiresVersionMinor</key>
+	<string>6</string>
+	<key>timeStamp</key>
+	<real>1466005888.0</real>
+	<key>version</key>
+	<string>0.5.6</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>fontfont/RoboChrome</string>
+		<key>summary</key>
+		<string>Edit and generate color fonts in various formats.</string>
+	</dict>
+</dict>
+</plist>

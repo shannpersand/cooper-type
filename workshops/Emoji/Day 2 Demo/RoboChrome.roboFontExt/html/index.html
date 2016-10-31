@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>RoboChrome Help</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" href="screen.css" type="text/css" media="screen" charset="utf-8">
+	</head>
+	<body>
+		<h1>RoboChrome</h1>
+		
+		<p>RoboChrome is a RoboFont extension for editing and generating fonts
+			with colored glyphs.</p>
+		
+		<h2>Overview</h2>
+		
+		<p>There are different proposals for how colored glyphs can be stored in a
+			font.</p>
+		<p>RoboChrome’s model is based on the <em>Microsoft
+			proposal,</em> which allows a black-and-white glyph to be replaced by a
+			stack of colored layer glyphs. Each layer corresponds to
+			one color. Because the format is vector-based,
+			font file sizes stay small.</p>
+		<p>The layered glyphs are rasterized to PNG images when you choose to export
+			a font in the <em>Apple color font format.</em> These fonts are slow
+			to generate and will take up considerably more file size.</p>
+		<p>The <em>Adobe/Mozilla proposal</em> allows SVG documents to be
+			stored in a font, and displayed instead of the regular glyphs. In RoboChrome, the SVG document is always
+			derived from the sequence of glyph layers, though native SVGs would allow much
+			more flexibility, e.&nbsp;g. gradients, animation, and bitmap images.</p>
+		<!--<p>The bitmap-based <em>Google proposal</em> is not supported in
+			RoboChrome at the moment.</p>-->
+		
+		<h2>Help Topics</h2>
+		<ul>
+			<li><a href="interface.html">The Interface</a></li>
+			<li><a href="tutorial.html">Tutorial: How to add color to a font</a></li>
+			<li><a href="autolayers.html">Assigning layers automatically</a></li>
+			<li><a href="export.html">Generating a color font</a></li>
+			<li><a href="import.html">Importing color data from a font</a></li>
+			<li><a href="support.html">Supported systems/applications</a></li>
+		</ul>
+		
+		<h2 id="issues">Known Issues &amp; Feedback</h2>
+		<p>If something goes wrong, be sure to check RoboFont’s Output Window for any clues.</p>
+		<p>Check for known issues and feel free to comment and submit reports to the <a href="https://github.com/fontfont/RoboChrome/issues">issue tracker on GitHub</a>.</p>
+		<hr>
+		<p>RoboChrome is © 2013—2014 by FontShop International.</p>
+		<p><a href="credits.html">Credits</a></p>
+	</body>
+</html>
