@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="width"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/fgriessh/Desktop/_instances"/>
+    <data name="previewtext" value="now"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- rules -->
+    <rule enabled="1" logic="all" resultfalse="w" resulttrue="w.alt">
+        <condition axisname="width" operator="&lt;=" xvalue="650.000000"/>
+    </rule>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="width" shortname="wd">
+        <color a="1.000" b="0.612" g="0.993" r="0.053"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Example" filename="example_fullWidth.ufo" sortorder="1" stylename="FullWidth">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Example" filename="example_halfWidth.ufo" sortorder="0" stylename="HalfWidth">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+</designspace>
