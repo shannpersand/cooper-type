@@ -376,6 +376,7 @@
 				<string>serif-even</string>
 				<string>serif-big</string>
 				<string>ocedilla</string>
+				<string>.notdef</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
