@@ -22,12 +22,12 @@
       <point x="343" y="565"/>
       <point x="262" y="490"/>
       <point x="236" y="411" type="curve"/>
-      <point x="286" y="344" type="line"/>
-      <point x="304" y="374"/>
-      <point x="335" y="399"/>
-      <point x="370" y="399" type="curve"/>
-      <point x="393" y="399"/>
-      <point x="403" y="381"/>
+      <point x="286" y="353" type="line"/>
+      <point x="305" y="384"/>
+      <point x="334.0" y="410.0"/>
+      <point x="369" y="410" type="curve"/>
+      <point x="393" y="410"/>
+      <point x="403.0" y="387.5"/>
       <point x="403" y="355" type="curve"/>
       <point x="403" y="135" type="line"/>
       <point x="380" y="109" type="line"/>

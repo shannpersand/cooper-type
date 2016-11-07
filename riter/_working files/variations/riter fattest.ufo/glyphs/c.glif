@@ -8,14 +8,14 @@
       <point x="572" y="287" type="line"/>
       <point x="380" y="287" type="line"/>
       <point x="373" y="381" type="line"/>
-      <point x="366" y="402"/>
-      <point x="358" y="419"/>
-      <point x="328" y="419" type="curve"/>
-      <point x="292" y="419"/>
-      <point x="272" y="387"/>
-      <point x="272" y="276" type="curve" smooth="yes"/>
-      <point x="272" y="192"/>
-      <point x="299" y="153"/>
+      <point x="363.816592555" y="408.550222335"/>
+      <point x="358" y="432"/>
+      <point x="328" y="432" type="curve"/>
+      <point x="292" y="432"/>
+      <point x="272" y="400"/>
+      <point x="272" y="289" type="curve" smooth="yes"/>
+      <point x="272" y="196"/>
+      <point x="299.0" y="153.0"/>
       <point x="368" y="153" type="curve"/>
       <point x="441" y="153"/>
       <point x="501" y="178"/>
