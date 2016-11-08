@@ -70,18 +70,26 @@
 	<string>agrave.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>asciicircum</key>
+	<string>asciicircum.glif</string>
+	<key>asciitilde</key>
+	<string>asciitilde.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>backslash</key>
+	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
 	<key>bowl-large</key>
 	<string>bowl-large.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceright</key>
+	<string>braceright.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
@@ -120,6 +128,8 @@
 	<string>emdash.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>equal</key>
+	<string>equal.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>f</key>
@@ -226,8 +236,12 @@
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>slash</key>
+	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>sterling</key>
+	<string>sterling.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>three</key>
