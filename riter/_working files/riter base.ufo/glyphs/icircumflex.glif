@@ -16,6 +16,6 @@
       <point x="119" y="74" type="line"/>
       <point x="73" y="49" type="line"/>
     </contour>
-    <component base="circumflex" xOffset="-150"/>
+    <component base="circumflex" xOffset="-151"/>
   </outline>
 </glyph>

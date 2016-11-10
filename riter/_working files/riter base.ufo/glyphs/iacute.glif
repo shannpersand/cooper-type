@@ -16,6 +16,6 @@
       <point x="119" y="74" type="line"/>
       <point x="73" y="49" type="line"/>
     </contour>
-    <component base="acute" xOffset="-209" yOffset="-5"/>
+    <component base="acute" xOffset="-204"/>
   </outline>
 </glyph>
