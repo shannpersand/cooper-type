@@ -1,0 +1,146 @@
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">b5ccb33</span> | Initial commit</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">a2eb13f</span> | initial commit</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">92f1606</span> | Merge branch 'master' of github.com:shannpersand/cooper-type</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">71a782b</span> | renames font</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">a8f0d1b</span> | add gitignore</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">5b4e3cc</span> | refines some letters and begins cleaning up</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-06</span><span class="commit-hash">6878544</span> | ds store cleanup</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">cf033fb</span> | adds screenshots</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">5bf1d3c</span> | adds generic bracketed serif</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">28dbd93</span> | edits bingobango</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">ae2ba39</span> | reorganize</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">ee74311</span> | edits bingobango</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">2210da6</span> | re-edits bingo bango</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-07</span><span class="commit-hash">a6c66c5</span> | pdf and images</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-15</span><span class="commit-hash">520913f</span> | adds trajan skeletons</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-15</span><span class="commit-hash">9d438a4</span> | rename file</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-15</span><span class="commit-hash">31b022e</span> | adjusts trajan caps, adds template</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-15</span><span class="commit-hash">868bf03</span> | add idml cs5 compatible template</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-27</span><span class="commit-hash">272d66e</span> | updates trajan caps</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-27</span><span class="commit-hash">ed6d2aa</span> | moves riter around, adds images and adds lots of miniscules</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-28</span><span class="commit-hash">1ed7572</span> | updates riter neue, adds prospectus indd and pdf</li>
+<li class="list--commit__item"><span class="commit-date">2016-02-28</span><span class="commit-hash">244cb9a</span> | adds prospectus pdf</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-01</span><span class="commit-hash">3ae56f1</span> | edits prospectus to combine with notation</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-02</span><span class="commit-hash">a0a2996</span> | Create README.md</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-07</span><span class="commit-hash">052c758</span> | rename file</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-07</span><span class="commit-hash">f6ba983</span> | Merge branch 'master' of github.com:shannpersand/cooper-type</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-07</span><span class="commit-hash">c2a4aa9</span> | serif experimentation</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-13</span><span class="commit-hash">84244fe</span> | serif experimentation</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-13</span><span class="commit-hash">dd0e554</span> | wip, refines some serifs, adds a few more capitals</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-14</span><span class="commit-hash">775ed5b</span> | adds U, 1 refines some glyphs</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-14</span><span class="commit-hash">641cac9</span> | adding ugly numbers and adjusting letters</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-19</span><span class="commit-hash">c48edae</span> | adds some glyphs</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-19</span><span class="commit-hash">483d380</span> | adds DFKWXYZ</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-19</span><span class="commit-hash">ede6eda</span> | wip cleaning up</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-20</span><span class="commit-hash">beada7d</span> | adds Qdp, adjusts serifs</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-20</span><span class="commit-hash">9854d96</span> | cleaning up</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-21</span><span class="commit-hash">09e448a</span> | fills out uppercase and most of lowercase</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-21</span><span class="commit-hash">565ce06</span> | adjusts wxyz, adds 05.:</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-21</span><span class="commit-hash">a80bd31</span> | finishes figures, adjusts spacing</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-22</span><span class="commit-hash">b213a53</span> | lots of finishing, spacing adds proofs and finishes numbers</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-22</span><span class="commit-hash">b96cfc7</span> | adds pdf</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-24</span><span class="commit-hash">116054b</span> | adds everything but the &! adjusts weights</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-24</span><span class="commit-hash">55ef5aa</span> | adds extra characters</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-24</span><span class="commit-hash">954f968</span> | updates samples</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-26</span><span class="commit-hash">3919c5c</span> | adds indesign docs</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-26</span><span class="commit-hash">6b18767</span> | update presentation</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-26</span><span class="commit-hash">af3278d</span> | update presentation</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-27</span><span class="commit-hash">6bb86b7</span> | update presentation add sample</li>
+<li class="list--commit__item"><span class="commit-date">2016-03-27</span><span class="commit-hash">784c763</span> | updates name of folder and adds full presentation</li>
+
+
+<li class="list--commit__item"><span class="commit-date">2016-05-17</span><span class="commit-hash">93e3403</span> | adding italic test and latin character sets</li>
+<li class="list--commit__item"><span class="commit-date">2016-05-17</span><span class="commit-hash">d9fadcc</span> | edit gitignore</li>
+<li class="list--commit__item"><span class="commit-date">2016-05-17</span><span class="commit-hash">915e397</span> | edit gitignore</li>
+<li class="list--commit__item"><span class="commit-date">2016-05-17</span><span class="commit-hash">0dbe18e</span> | updates latin plus</li>
+<li class="list--commit__item"><span class="commit-date">2016-05-22</span><span class="commit-hash">a361ea1</span> | adds verbs to italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-13</span><span class="commit-hash">414e39b</span> | adds italic working file</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-21</span><span class="commit-hash">e7498a0</span> | renames italic and edits some serifs on lowercase roman</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-21</span><span class="commit-hash">b9a82e6</span> | deletes stupid indd files</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-24</span><span class="commit-hash">dd7babc</span> | adjusts roundness, wip fixing various serifs</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-25</span><span class="commit-hash">e53a0b1</span> | adds python workshop and new preferences</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-25</span><span class="commit-hash">0414dab</span> | add italic O and some small spacing adjustments</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-26</span><span class="commit-hash">d66461f</span> | adds more python workshop</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-26</span><span class="commit-hash">1169ea6</span> | adds more python workshop</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-26</span><span class="commit-hash">0fdf96d</span> | adds some italic uppercase</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-28</span><span class="commit-hash">ce6046f</span> | adds samples</li>
+<li class="list--commit__item"><span class="commit-date">2016-06-29</span><span class="commit-hash">4db9507</span> | refines some serifs</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-02</span><span class="commit-hash">49aaf34</span> | Merge pull request #1 from shannpersand/serif-refinement</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-02</span><span class="commit-hash">a31bbe3</span> | Merge pull request #2 from shannpersand/more-roman</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-02</span><span class="commit-hash">6ddf822</span> | adds some reorg</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-02</span><span class="commit-hash">dced6c1</span> | lightens lowercase roman overall, moves lc to new serifs</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-05</span><span class="commit-hash">5eaad7e</span> | latest</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-06</span><span class="commit-hash">bf11086</span> | makes serifs bigger</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-06</span><span class="commit-hash">dae1d51</span> | adds wider spacing</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-10</span><span class="commit-hash">6cc0d38</span> | refining widths and serifs</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-11</span><span class="commit-hash">90262f8</span> | adds capitals new serifs for roman</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-18</span><span class="commit-hash">0dfa9ce</span> | some work on original / adds new file / rearranges life</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-19</span><span class="commit-hash">01c9395</span> | adds more characters to base and components</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-19</span><span class="commit-hash">5ce2fb1</span> | adds a few new characters, adjusts spacing</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-20</span><span class="commit-hash">16869d5</span> | fills out lowercase</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-21</span><span class="commit-hash">64f7587</span> | some spacing</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-21</span><span class="commit-hash">b89328c</span> | slight adjustments, adds BHLOI</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-22</span><span class="commit-hash">d133d7d</span> | fills out uppercase</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-23</span><span class="commit-hash">57294c9</span> | adjust some of the regular, adds some characters for italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-23</span><span class="commit-hash">f2fb280</span> | makes spacing 10 wider overall on base, adds italic proof</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-23</span><span class="commit-hash">6d48111</span> | adjusts components in roman that did not move</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-25</span><span class="commit-hash">2d2b7ca</span> | adds a few letters to italic lc</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-25</span><span class="commit-hash">987b581</span> | wip adds more to italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-26</span><span class="commit-hash">1a14a5e</span> | adds more italics, and updates settings</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-27</span><span class="commit-hash">59fc2c9</span> | fills out lowercase italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-28</span><span class="commit-hash">76dd9be</span> | updates pref</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-28</span><span class="commit-hash">0e22397</span> | adds 5 basic uppercase italic, some lc spacing adjustments</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-28</span><span class="commit-hash">feac85a</span> | some small thing on roman H</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-30</span><span class="commit-hash">9ce011d</span> | wip adds almost all italic uppercase</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-30</span><span class="commit-hash">3f9b040</span> | fills out EGJL italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-30</span><span class="commit-hash">bcb5836</span> | finish uppercase italic</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-31</span><span class="commit-hash">a0cf176</span> | some punctuation</li>
+<li class="list--commit__item"><span class="commit-date">2016-07-31</span><span class="commit-hash">c611f72</span> | adds figures and punctuation</li>
+<li class="list--commit__item"><span class="commit-date">2016-08-01</span><span class="commit-hash">2e841bb</span> | adds submodule for preso</li>
+
+
+<li class="list--commit__item"><span class="commit-date">2016-08-24</span><span class="commit-hash">73c8aa2</span> | reorg and adding some python 101 workshop stuff</li>
+<li class="list--commit__item"><span class="commit-date">2016-08-27</span><span class="commit-hash">c3c1f6e</span> | reproof</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-18</span><span class="commit-hash">61bc708</span> | add bold test ufo and pdf, day 1 workshop 1</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-18</span><span class="commit-hash">627a081</span> | add bolder ultra test, add superpolator test, fix riter base original</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-24</span><span class="commit-hash">a719138</span> | add cgilyb to fattest riter weight</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-25</span><span class="commit-hash">7b4974d</span> | add aenoRH to thin test</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-25</span><span class="commit-hash">8dad473</span> | add aeno to skinny</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-25</span><span class="commit-hash">16b24dd</span> | add skinny, wide, adjustments, contrast</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-25</span><span class="commit-hash">3719bde</span> | add silly scripty thing</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-26</span><span class="commit-hash">7113716</span> | PROOF: Includes initial variations; small spacing adjustments to all tests</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-26</span><span class="commit-hash">5869c9c</span> | major folder reorg</li>
+<li class="list--commit__item"><span class="commit-date">2016-09-26</span><span class="commit-hash">339e918</span> | higher level folder reorg</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-01</span><span class="commit-hash">6fffc23</span> | add kpfO to boldest, adjust regular</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-02</span><span class="commit-hash">41a960f</span> | PROOF: add   and to riter fattest</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-03</span><span class="commit-hash">dd6d743</span> | adjust existing letters after crit</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-08</span><span class="commit-hash">195b88e</span> | fill out lowercase fattest</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-16</span><span class="commit-hash">983829c</span> | add adjustments after class crit</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-16</span><span class="commit-hash">9690728</span> | adjust other corrections from crit; add caps  for ultra</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-17</span><span class="commit-hash">9955afb</span> | index on master: 9690728 adjust other corrections from crit; add caps  for ultra</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-17</span><span class="commit-hash">11b5ca4</span> | WIP on master: 9690728 adjust other corrections from crit; add caps  for ultra</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-17</span><span class="commit-hash">fd0044d</span> | ??? add J L ???</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-18</span><span class="commit-hash">98205c6</span> | refinements and new characters</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-21</span><span class="commit-hash">e59cb5c</span> | add bold basic punctuation and adjust base comma</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-21</span><span class="commit-hash">6004080</span> | add single odieresis sample</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-23</span><span class="commit-hash">c8c612a</span> | add basic accents that are terrible</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-28</span><span class="commit-hash">605b59f</span> | add accented characters and adjust base figures</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-29</span><span class="commit-hash">f9ed64d</span> | add emoji workshop day 1</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-30</span><span class="commit-hash">1621bf8</span> | adjust a few accents in base, widen some base caps, fill out ultra caps</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-30</span><span class="commit-hash">bf56401</span> | add emoji workshop day 2</li>
+<li class="list--commit__item"><span class="commit-date">2016-10-31</span><span class="commit-hash">939ce75</span> | add proofs and change naming</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-03</span><span class="commit-hash">99ba918</span> | add poster</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-03</span><span class="commit-hash">d24ecff</span> | a little more on specimen</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-03</span><span class="commit-hash">1522eb3</span> | add images</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-05</span><span class="commit-hash">39a0cbf</span> | wip fill out specimen</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-05</span><span class="commit-hash">701b8ad</span> | mostly filled out specimen, start postcard</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-05</span><span class="commit-hash">7637771</span> | edits to basic, first stab at ouija board</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-06</span><span class="commit-hash">ea8e324</span> | add extra characters and missing assets</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-06</span><span class="commit-hash">a601927</span> | correct punctuation and accents, update specimen</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-06</span><span class="commit-hash">a033df4</span> | add specimen files for print</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-07</span><span class="commit-hash">a555717</span> | add a few special characters</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-07</span><span class="commit-hash">a297122</span> | add flags for ouija</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-09</span><span class="commit-hash">f446331</span> | new poster</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-09</span><span class="commit-hash">402f7c1</span> | add plate files</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-11</span><span class="commit-hash">255396d</span> | update to latest</li>
+<li class="list--commit__item"><span class="commit-date">2016-11-13</span><span class="commit-hash">557f7ea</span> | reorg proofs</li>

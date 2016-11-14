@@ -1,0 +1,142 @@
+557f7ea reorg proofs
+255396d update to latest
+402f7c1 add plate files
+f446331 new poster
+a297122 add flags for ouija
+a555717 add a few special characters
+a033df4 add specimen files for print
+a601927 correct punctuation and accents, update specimen
+ea8e324 add extra characters and missing assets
+7637771 edits to basic, first stab at ouija board
+701b8ad mostly filled out specimen, start postcard
+39a0cbf wip fill out specimen
+1522eb3 add images
+d24ecff a little more on specimen
+99ba918 add poster
+939ce75 add proofs and change naming
+bf56401 add emoji workshop day 2
+1621bf8 adjust a few accents in base, widen some base caps, fill out ultra caps
+f9ed64d add emoji workshop day 1
+605b59f add accented characters and adjust base figures
+c8c612a add basic accents that are terrible
+6004080 add single odieresis sample
+e59cb5c add bold basic punctuation and adjust base comma
+98205c6 refinements and new characters
+fd0044d ??? add J L ???
+11b5ca4 WIP on master: 9690728 adjust other corrections from crit; add caps  for ultra
+9955afb index on master: 9690728 adjust other corrections from crit; add caps  for ultra
+9690728 adjust other corrections from crit; add caps  for ultra
+983829c add adjustments after class crit
+195b88e fill out lowercase fattest
+dd6d743 adjust existing letters after crit
+41a960f PROOF: add   and to riter fattest
+6fffc23 add kpfO to boldest, adjust regular
+339e918 higher level folder reorg
+5869c9c major folder reorg
+7113716 PROOF: Includes initial variations; small spacing adjustments to all tests
+3719bde add silly scripty thing
+16b24dd add skinny, wide, adjustments, contrast
+8dad473 add aeno to skinny
+7b4974d add aenoRH to thin test
+a719138 add cgilyb to fattest riter weight
+627a081 add bolder ultra test, add superpolator test, fix riter base original
+61bc708 add bold test ufo and pdf, day 1 workshop 1
+c3c1f6e reproof
+73c8aa2 reorg and adding some python 101 workshop stuff
+2e841bb adds submodule for preso
+c611f72 adds figures and punctuation
+a0cf176 some punctuation
+bcb5836 finish uppercase italic
+3f9b040 fills out EGJL italic
+9ce011d wip adds almost all italic uppercase
+feac85a some small thing on roman H
+0e22397 adds 5 basic uppercase italic, some lc spacing adjustments
+76dd9be updates pref
+59fc2c9 fills out lowercase italic
+1a14a5e adds more italics, and updates settings
+987b581 wip adds more to italic
+2d2b7ca adds a few letters to italic lc
+6d48111 adjusts components in roman that did not move
+f2fb280 makes spacing 10 wider overall on base, adds italic proof
+57294c9 adjust some of the regular, adds some characters for italic
+d133d7d fills out uppercase
+b89328c slight adjustments, adds BHLOI
+64f7587 some spacing
+16869d5 fills out lowercase
+5ce2fb1 adds a few new characters, adjusts spacing
+01c9395 adds more characters to base and components
+0dfa9ce some work on original / adds new file / rearranges life
+90262f8 adds capitals new serifs for roman
+6cc0d38 refining widths and serifs
+dae1d51 adds wider spacing
+bf11086 makes serifs bigger
+5eaad7e latest
+dced6c1 lightens lowercase roman overall, moves lc to new serifs
+6ddf822 adds some reorg
+a31bbe3 Merge pull request #2 from shannpersand/more-roman
+49aaf34 Merge pull request #1 from shannpersand/serif-refinement
+4db9507 refines some serifs
+ce6046f adds samples
+0fdf96d adds some italic uppercase
+1169ea6 adds more python workshop
+d66461f adds more python workshop
+0414dab add italic O and some small spacing adjustments
+e53a0b1 adds python workshop and new preferences
+dd7babc adjusts roundness, wip fixing various serifs
+b9a82e6 deletes stupid indd files
+e7498a0 renames italic and edits some serifs on lowercase roman
+414e39b adds italic working file
+a361ea1 adds verbs to italic
+0dbe18e updates latin plus
+915e397 edit gitignore
+d9fadcc edit gitignore
+93e3403 adding italic test and latin character sets
+784c763 updates name of folder and adds full presentation
+6bb86b7 update presentation add sample
+af3278d update presentation
+6b18767 update presentation
+3919c5c adds indesign docs
+954f968 updates samples
+55ef5aa adds extra characters
+116054b adds everything but the &! adjusts weights
+b96cfc7 adds pdf
+b213a53 lots of finishing, spacing adds proofs and finishes numbers
+a80bd31 finishes figures, adjusts spacing
+565ce06 adjusts wxyz, adds 05.:
+09e448a fills out uppercase and most of lowercase
+9854d96 cleaning up
+beada7d adds Qdp, adjusts serifs
+ede6eda wip cleaning up
+483d380 adds DFKWXYZ
+c48edae adds some glyphs
+641cac9 adding ugly numbers and adjusting letters
+775ed5b adds U, 1 refines some glyphs
+dd0e554 wip, refines some serifs, adds a few more capitals
+84244fe serif experimentation
+c2a4aa9 serif experimentation
+f6ba983 Merge branch 'master' of github.com:shannpersand/cooper-type
+052c758 rename file
+a0a2996 Create README.md
+3ae56f1 edits prospectus to combine with notation
+244cb9a adds prospectus pdf
+1ed7572 updates riter neue, adds prospectus indd and pdf
+ed6d2aa moves riter around, adds images and adds lots of miniscules
+272d66e updates trajan caps
+868bf03 add idml cs5 compatible template
+31b022e adjusts trajan caps, adds template
+9d438a4 rename file
+520913f adds trajan skeletons
+a6c66c5 pdf and images
+2210da6 re-edits bingo bango
+ee74311 edits bingobango
+ae2ba39 reorganize
+28dbd93 edits bingobango
+5bf1d3c adds generic bracketed serif
+cf033fb adds screenshots
+6878544 ds store cleanup
+5b4e3cc refines some letters and begins cleaning up
+a8f0d1b add gitignore
+71a782b renames font
+92f1606 Merge branch 'master' of github.com:shannpersand/cooper-type
+a2eb13f initial commit
+b5ccb33 Initial commit
